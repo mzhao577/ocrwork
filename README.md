@@ -49,6 +49,54 @@ output_folder/
     └── ...
 ```
 
+### ocr_parsefiles_1folderperclaim.py
+
+Extract text from PDF files organized in subfolders (one folder per claim). Processes each subfolder and maintains the folder structure in the output.
+
+**Usage:**
+```bash
+python ocr_parsefiles_1folderperclaim.py <input_folder> <output_folder> [--type {text,image}]
+```
+
+**Arguments:**
+- `input_folder` - Folder containing subfolders with PDF files
+- `output_folder` - Folder to save extracted text
+- `--type` - PDF type: `text` (default) for text-based PDFs, `image` for scanned PDFs
+
+**Example:**
+```bash
+python ocr_parsefiles_1folderperclaim.py data/claims data/output --type image
+```
+
+**Input structure:**
+```
+input_folder/
+├── claim_001/
+│   ├── document1.pdf
+│   └── document2.pdf
+├── claim_002/
+│   └── document3.pdf
+└── claim_003/
+    └── document4.pdf
+```
+
+**Output structure:**
+```
+output_folder/
+├── claim_001/
+│   ├── document1/
+│   │   ├── page_001.txt
+│   │   └── full_text.txt
+│   └── document2/
+│       └── ...
+├── claim_002/
+│   └── document3/
+│       └── ...
+└── claim_003/
+    └── document4/
+        └── ...
+```
+
 ### ocr_pdf.py
 
 Basic PDF OCR script using Tesseract. Processes all PDFs in `data/textinputs` and outputs to `data/textoutputs`.
