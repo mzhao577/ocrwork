@@ -1,8 +1,76 @@
 # OCR Work Tools
 
-PDF classification and text filtering tools for document processing.
+PDF classification, OCR text extraction, and text filtering tools for document processing.
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+Also requires system dependencies:
+- **Tesseract OCR**: `brew install tesseract` (macOS) or `sudo apt-get install tesseract-ocr` (Ubuntu)
+- **Poppler** (for PDF to image conversion): `brew install poppler` (macOS) or `sudo apt-get install poppler-utils` (Ubuntu)
 
 ## Scripts
+
+### ocr_parsefiles.py
+
+Extract text from PDF files. Supports both text-based PDFs (direct extraction) and image-based/scanned PDFs (OCR).
+
+**Usage:**
+```bash
+python ocr_parsefiles.py <input_folder> <output_folder> [--type {text,image}]
+```
+
+**Arguments:**
+- `input_folder` - Folder containing PDF files
+- `output_folder` - Folder to save extracted text
+- `--type` - PDF type: `text` (default) for text-based PDFs, `image` for scanned PDFs
+
+**Examples:**
+```bash
+# For text-based PDFs (fast, direct extraction)
+python ocr_parsefiles.py data/textinputs data/textoutputs --type text
+
+# For scanned/image-based PDFs (uses Tesseract OCR)
+python ocr_parsefiles.py data/scannedimages data/scannedoutputs --type image
+```
+
+**Output structure:**
+```
+output_folder/
+├── pdf_name_1/
+│   ├── page_001.txt
+│   ├── page_001.png    (only for --type image)
+│   ├── page_002.txt
+│   └── full_text.txt   (combined text from all pages)
+└── pdf_name_2/
+    └── ...
+```
+
+### ocr_pdf.py
+
+Basic PDF OCR script using Tesseract. Processes all PDFs in `data/textinputs` and outputs to `data/textoutputs`.
+
+**Usage:**
+```bash
+python ocr_pdf.py
+```
+
+### ocr_image.py
+
+Extract text from image files (PNG, JPG, etc.) using Tesseract OCR.
+
+**Usage:**
+```bash
+python ocr_image.py <image_path> <output_path> [-l LANG]
+```
+
+**Example:**
+```bash
+python ocr_image.py scan.png output.txt -l eng
+```
 
 ### classify_pdfs.py
 
@@ -10,7 +78,6 @@ Classifies PDF files as text-based or image-based (scanned).
 
 **Usage:**
 ```bash
-pip install pymupdf
 python classify_pdfs.py <input_folder> <output_csv>
 ```
 
