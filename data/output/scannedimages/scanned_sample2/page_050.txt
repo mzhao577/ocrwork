@@ -1,0 +1,50 @@
+Repair Tag Structure
+
+In case you found incorrect pre-assigned tag i.e.
+<P> for heading title when it should be tagging as
+<H1>. There are three different ways to correct
+the tag from <P> to <H1> in below examples.
+
+Option 1: Re-draw a rectangle around the Option 2: Double-click the tag i.e. <P>
+
+Tags x
+v £8 Tass S Pp H l H
+Universal Design Center
+vy [By <Sect>
+>4 .——_ Accessibility Statement
+> 4 <P> Pls part of our commitment to excellence through diversity and inclusion, California
+> qe University, Northridge (CSUN) strives to ensure that campus communication and ir
+technology is accessible to everyone. The California State University system state
+> Ge accessibility is articulated in California State University - Executive Order 1111, in
+> 4 <P> with both federal and state laws including the Americans with Disabilities Act of 1
+qe Section 508 of the U.S. Rehabilitation Act.
+
+Option 3: Select <P> tag, right-click to select
+
+content, select one of the Reading Order then re-type to <H1> Properties. Type box: select Heading Level 1
+Tool buttons to tag it.
+vB ta9s Copy Contents to Clipboard
+Edit Class Map...
+a [S| <Sect>
+Reading Order | a Edit Role Map... Ouject opens
+> 4 oa Tag Annotations
+Draw a rectangle around the content then click one of f= | Content Tag Color
+the buttons below: > q <P> v Document is Tagged PDF
+Type: |Paragraph v
+> qm Y Apply Role Mapping to Tags Form z
+Text/Paragraph Figure we & Tags Y Highlight Content Title: Formula
+<H3> 4 Actual Text:
+Form Field Figure/Caption ? ¢ “
+
+[| <Sect Heading Level 3
+
+Heading 1 Heading 4 Table Alternate Text: tea tous
+
+Heading Level 6
+Heading 2 Heading 5 Cell oe ~
+
+Heading 3 Heading 6 Formula Language: English US
+
+Reference (q) Note (z) Background/Artifact Eoit Tag. Edit Attribute Objects... Eqit Attribute Classes...
+Close:
+

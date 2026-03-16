@@ -1,0 +1,29 @@
+Template for Clinical SOAP Note Format  
+Subjective  – The “history” section  
+HPI: include symptom dimensions, chronological narrative of patient’s complains, 
+information obtained from other sources (always identify source if not the patient).  
+Pertinent past medical history.  
+Pertinent review of systems, for example, “Patient has not had any stiffness or loss 
+of motion of other joints.”  
+Current medications (list with daily dosages).  
+Objective  – The physical exam and laboratory data section  
+Vital signs including  oxygen saturation when indicated.  
+Focuses physical exam.  
+All pertinent labs, x -rays, etc. completed at the visit.  
+Assessment/Problem List  – Your assessment of the patient’s problems  
+Assessment: A one sentence description of the patient and major problem 
+Problem list: A numerical list of problems identified  
+All listed problems need to be supported by findings in subjective and objective areas 
+above. Try to take the assessment of the major problem to the highest level of 
+diagnosis that you can, for example, “low back sprain caused by radiculitis involving 
+left 5th LS nerve root.”  
+Provide at least 2 differential diagnoses for the major new problem identified in your 
+note.  
+Plan  – Your plan for the patient based on the problems you’ve identified  
+Develop a diagno stic and treatment plan for each differential diagnosis.  
+Your diagnostic plan may include tests, procedures, other laboratory studies, 
+consultations, etc.  
+Your treatment plan should include: patient education, pharmacotherapy if any, other therapeutic proc edures. You must also address plans for follow -up (next 
+scheduled visit, etc.).  
+Also see your Bates Guide to Physical Examination for excellent examples of 
+complete H & P and SOAP note formats.  

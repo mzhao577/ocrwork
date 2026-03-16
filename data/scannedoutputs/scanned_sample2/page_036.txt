@@ -1,0 +1,100 @@
+v Sample preview
+
+WCAG 2.1 results Contrast ratio
+1.5:1
+
+Y 1.4.3 Contrast (Minimum) (AA)
+
+Text (including images of text) has a contrast
+ratio of at least 4.5:1 for "regular" sized text and at least
+3:1 for large scale text (at least |i8pt) /|24px|, or bold
+and at least |14pt|/{18.5px/), unless the text is purely
+decorative
+
+Fail (regular text) Fail (large text)
+
+Y 1.4.6 Contrast (Enhanced) (AAA)
+
+Paraphrased| Text (including images of text) has a contrast
+ratio of at least 7:1 for "regular" sized text and at least
+4.5:1 for large scale text (at least | 12pt |/{24px/|, or bold
+and at least|i4pt|/{18.5px/), unless the text is purely
+decorative
+
+Fail (regular text) Fail (large text)
+
+Y 1.4.11 Non-text Contrast (AA)
+
+The visual presentation of user interface
+components (their states — including focus indication —
+and boundaries) and graphical objects has a contrast
+ratio of at least 3:1 against adjacent color(s)
+
+Fail (UI components and graphical objects)
+
+Colour Contrast Analyser (CCA) Edit View
+
+Foreground colour (black)
+
+RGB +) rgb(0, 0, 0)
+
+Lt
+Background colour
+
+HEX + #E69500
+
+v Sample preview
+
+example text showing contrast i
+
+~*~
+
+WCAG 2.1 results Contrast ratio
+
+¥ 1.4.3 Contrast (Minimum) (AA)
+
+Text (including images of text) has a contrast
+
+ratio of at least 4.5:1 for "regular" sized text and at least
+3:1 for large scale text (at least /i2pt)/|24px/, or bold
+and at least /i4p+|/|12.5px)), unless the text is purely
+decorative
+© Pass (regular text) @ Pass (large text)
+
+> 1.4.6 Contrast (Enhanced) (AAA)
+© Pass (regular text) © Pass (large text)
+
+> 1.4.11 Non-text Contrast (AA)
+
+(2) Pass (UI components and graphical objects)
+
+Verify Color Contrast
+
+Bad Examples Good Examples
+
+Yellow on black is good
+
+Blue on orange is bad Black on orange is ok
+
+Racl on green is bad White on green is good
+
+* Download Colour Contrast Analyser onto
+your computer (PC/Mac) to ensure
+
+accessible contrast or use an online
+contrast checker from WebAIM.
+
+* WCAG Level AA requires a contrast ratio of
+
+People who have low vision or
+colorblind could encounter some
+difficulty distinguishing text color
+from a background color if the
+contrast is insufficient contrast ratio
+1.5:1.
+
+This example has a great color at least 4.5:1 for regular sized text (12 or
+contrast ratio of 8.7:1. The 14 pt. font) and 3:1 for large text (18 pt.
+contrast is sufficient for those font).
+
+who have color deficiencies * Coblis Color Blindness Simulator

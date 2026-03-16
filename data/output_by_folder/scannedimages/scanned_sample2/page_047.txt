@@ -1,0 +1,3 @@
+Figure and Caption Tags Sample
+•Images are tagged as “ Figure ”
+•Or images with short text underneath as “ Figure/Caption ”.

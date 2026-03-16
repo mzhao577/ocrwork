@@ -1,0 +1,6 @@
+Accessibility Tips
+•Always save your PDF as you add TAGS 
+accessibility markup
+•When modifying extensive content in reading order, drag content down not up
+•Delete empty tags 
+•Header, footer, and page numbers, decorative lines or shapes tag as “Background/artifact”

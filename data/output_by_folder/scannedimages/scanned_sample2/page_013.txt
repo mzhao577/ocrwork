@@ -1,0 +1,8 @@
+Action Wizard Steps, 2 of 5
+Step 5: The document description gives the document a 
+proper title to be recognized by assistive technology. 
+Uncheck the Leave As Is box and provide a title to the 
+document. 
+Step 6: The recognized text option will scan the document 
+using the selected language. Select the desired Language and 
+Output Editable Text and Images.

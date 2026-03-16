@@ -1,0 +1,21 @@
+Use screen reader to finalize
+your document accessibility features
+
+DO NOT use Adobe Acrobats built-in ‘Read Out Lout’ tool as a screen reader. This tool is
+NOT a screen reader and will not capture the same information as screen readers below.
+
+4)
+NV Access @
+
+Empowering lives through
+non-visual access to technology
+
+VoiceOver (Apple)
+
+Microsoft Windows NVDA screen reader that allows blind ¢ Apple VoiceOver built-in provides
+
+and visually impaired users to read the screen either with auditory descriptions of each onscreen
+a text-to-speech output or by a refreshable Braille display. element using gestures, a keyboard, ora
+NVDA can be downloaded free of charge by anyone. braille display.
+
+NVvaCcess.org

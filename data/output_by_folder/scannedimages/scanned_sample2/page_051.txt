@@ -1,0 +1,15 @@
+What is the Content Pane? 
+•The Content Pane shows you the 
+elements on a page and hold all the 
+content within your PDF. 
+•You should be familiar with structural elements of PDF documents before 
+editing them in the Content Pane.
+•The Content Pane can be difficult to 
+navigate because it is not properly 
+organized.
+•Editing your Content Pane is most 
+helpful when you have PDFs with lots 
+of graphics or overlapping information. 
+If content is hidden in your PDF, you 
+can go to the Content Pane to find it 
+and reorganize to find the missing info.  

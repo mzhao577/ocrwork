@@ -1,0 +1,12 @@
+Check Accessibility 
+First run the Accessibility Full Check at the beginning and at the end.
+•Accessibility checkers 
+results in bold text have one or more issues/failed 
+that need to fix. 
+•If you have a failure, you 
+can right -click on any 
+item in the report and 
+select “Explain” that will 
+link to Adobe webpage to explain the problem. 
+•If the results not in bold text, that section has 
+passed.

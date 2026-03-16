@@ -1,0 +1,5 @@
+Adding Tools to Navigation Pane
+These are the primary tools needed to create an accessible PDF:
+Option 1: View > Show/Hide >Navigation > 
+Tags and Content PaneOption 2: On left pane, right- click to select 
+Tags and Content Pane

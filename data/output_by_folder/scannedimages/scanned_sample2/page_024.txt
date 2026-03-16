@@ -1,0 +1,23 @@
+Heading Styles
+•Heading Styles (Heading 1 through Heading 6) in a logical sequence. Do not 
+skip heading levels i.e. Heading 2 to Heading 4, headings should be in order.)
+•Heading 1: Document title or main content heading/title (just one)
+•Heading 2: Major section heading
+•Heading 3: Sub-section of the Heading 2
+•Heading 4: Sub-section of the Heading 3, and so on, ending with 
+Heading 6
+•Normal: Text or paragraph
+•Title in Word Style won't recognize when converting to a PDF. Start 
+with Heading 1 for the document title.
+•How to create an accessible document using Microsoft Word, visit Word Essentials page 
+www.csun.edu/udc/wordHeadings are styles to 
+give a document structure 
+by category or topic. 
+Without headings , a 
+person using assistive 
+technology like a screen 
+reader cannot navigate by 
+sections, subsections, or 
+scan section titles to 
+understand the document 
+structure. 

@@ -1,0 +1,11 @@
+About Reading Order Tool
+Show Page Content Groups
+•Page content order: number 
+refers to the order of the 
+element in this content.
+•Structure types : shows 
+document’s tag structure.
+Recommend to uncheck 
+“Display like elements in a 
+single block.” This will show 
+single tag rather than group elements.

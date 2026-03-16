@@ -1,0 +1,19 @@
+Live or Real Text
+
+¢ To check if the text is “live” or “real,” try to select the text with your cursor.
+If you’re unable to highlight/select it then it is not real text, and therefore
+not accessible for all users.
+
+¢ Live text is searchable; this allows users to use search functions like
+CTRL + F to look for specific terms and find what they need quickly or to
+copy/paste text.
+
+Universal Design Center
+everyone.
+e Easy to get
+
+e Easy to understand
+e Easy to use
+
+Accessibility is for everyone.
+

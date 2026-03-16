@@ -1,0 +1,33 @@
+Figure and Caption Tags Sample
+
+Reading Order
+Draw a rectangle around the content then click one
+of the buttons below:
+Text/Paragraph Figure
+Form Field Figure/Caption
+Heading 1 | | Heading 4 Table
+Heading 2 | | Heading 5 Cell
+Heading 3 | | Heading 6 Formula
+Reference (q) | | Note (z) Background/Artifact
+
+> @ <H3> . sh sped * A a,
+4° What is Accessibility? What is Universal Design?
+> 4
+> qe In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+> @ <t2> ‘ ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+> 4 ability or preference.
+
+7
+
+Bay Image (136): w:315 h315
+-
+fa Figure 1: Accessibility logo
+
+> @<h2>
+> q <P> ‘igure 1: Accessibility logo|
+
+¢ Images are tagged as “Figure”
+
+* Or images with short text underneath as “Figure/Caption”.
+

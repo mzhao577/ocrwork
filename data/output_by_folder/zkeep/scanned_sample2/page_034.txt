@@ -1,0 +1,9 @@
+Accessibility Checker – Manual evaluation
+The accessibility checker will always flag 
+two items that require manual evaluation: 
+•Logical Reading Order
+•Color Contrast
+Two question marks       will always stay in 
+Document (2 issues) section even if you 
+right -click and select Pass. It just there as a 
+reminder to conduct manual check.

@@ -1,0 +1,36 @@
+Background/Artifact Tag for Decorative Images
+
+¢ Conveys no information; does not provide
+meaningful information.
+
+¢ Purely for visual effect.
+
+¢ The horizontal line that divided the two sections.
+
+e Line border image used as part of page design.
+
+¢ Decorative images do not require a text
+alternative.
+
+¢ Decorative images, lines, borders, or shapes
+ignore by assistive technologies, such as screen
+readers.
+
+niversal ~esign —enter
+
+Reading Order
+
+[£3
+
+Draw a rectangle around the content then click one
+
+of the buttons below: oq
+Text/Paragraph Figure
+Form Field Figure/Caption
+Heading 1 | Heading 4 Table
+Heading 2 | Heading 5 Cell
+Heading 3 | Heading 6 Formula
+Reference (q) | | Note (z)
+
+csun.edu/udc
+

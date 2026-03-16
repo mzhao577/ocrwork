@@ -1,0 +1,42 @@
+Direct vs Styles Formatting
+
+Insert Design Layout References Review View Help Grammarly Acrobat Q Tell me what you want to do
+
+Calibri (Body) ~, ya Aa~ «
+re
+
+Direct Formatting
+
+i
+
+Paste
+
+T Normal | 1NoSpac... Heading! Heading2 Heading3 Heading 4 Title Subtitle  SubtleEm... Emphasis (>
+
+Format Painter
+Styles
+
+Styles Pane
+
+Paragraph
+
+Clipboard
+
+Direct Formatting Styles Pane Formatting
+Provide structure and make document accessible
+
+¢ Not accessible to any assistive
+technology such as screen readers * Easier to modify existing formatting
+
+* Can’t create a Table of Contents Create and update a Table of Contents
+
+* Can’t create a navigation to different * Quicker navigation to different sections in a document
+sections in a document
+
+Retain document structure when export to PDF
+* Huge barriers!
+
+Accessible to any assistive technology like screen
+readers
+
+¢ Save time and save lives!

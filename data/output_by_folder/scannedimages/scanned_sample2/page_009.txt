@@ -1,0 +1,5 @@
+Option 1: Scan & OCR Steps, 1 of 2
+1.Open Scanned PDF
+2.Run Scan & OCR Tool
+3.Enhance “Scanned Document” (Recognize Text Checked)
+4.Multiple runs of Enhance to improve the quality of the scan

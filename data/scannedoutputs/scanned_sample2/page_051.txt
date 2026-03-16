@@ -1,0 +1,79 @@
+What is the Content Pane?
+
+The Content Pane shows you the
+elements on a page and hold all the
+content within your PDF.
+
+You should be familiar with structural
+elements of PDF documents before
+editing them in the Content Pane.
+
+The Content Pane can be difficult to
+navigate because it is not properly
+organized.
+
+Editing your Content Pane is most
+helpful when you have PDFs with lots
+of graphics or overlapping information.
+If content is hidden in your PDF, you
+can go to the Content Pane to find it
+and reorganize to find the missing info.
+
+te)
+@
+g
+ze
+
+> ay Container <H3> Need help?
+
+v Paget
+
+> Annotations
+
+\ jay Container <Link> UDC@csun.edu
+
+> [By] Text: udc@csunedu
+
+> ay Container <Span> or, during business hours (Monc
+
+> [Ey Text: Universal Design Center
+
+> [Hy Text: Accessibility Statement
+
+> fay Container <P> As part of our commit
+
+cd
+
+\ fay Container <H1> Universal Design Center
+
+\ jay Container <H2> Accessibility Statement
+
+itmen
+
+t to excel
+
+Universal Design Center
+
+Accessibility Statement
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
+Need help?
+
+Need assistance or have a question not answered here? Please contact the
+Universal Design Center (UDC) at UDC@csun.edu or, during business hours (Monday
+through Friday, 8am to 5pm Pacific time), at (818) 677-5898.
+
+What is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+
+ability or preference.
+

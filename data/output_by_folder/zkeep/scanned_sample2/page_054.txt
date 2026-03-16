@@ -1,0 +1,5 @@
+Launch the Tags Pane or the Content Pane
+•If you have errors in an Acrobat 
+Accessibility Check, you should have the option to show the error in either the Content Pane or the Tags Pane or both.
+•This lets you quickly see what the problem is.
+•In most cases, activating/clicking on the error will let you see what it is in the document, but being able to see it in either or both the Content and Tags Panes takes you right to the problem. 

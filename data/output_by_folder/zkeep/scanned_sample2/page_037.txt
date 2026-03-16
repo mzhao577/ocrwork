@@ -1,0 +1,4 @@
+Check Accessibility Again…
+•Go through each section that has one or more issues/failed to fix it until all sections passed.  
+•Two question marks       will always stay in Document (2 issues) section even if you right -click and 
+select Pass . It just there as a reminder to conduct manual check.

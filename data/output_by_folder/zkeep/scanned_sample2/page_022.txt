@@ -1,0 +1,14 @@
+Direct vs Styles Formatting
+Direct Formatting
+•Not accessible to any assistive 
+technology such as screen readers
+•Can’t create a Table of Contents
+•Can’t create a navigation to different sections in a document
+•Huge barriers!Styles Pane Formatting
+•Provide structure and make document accessible
+•Easier to modify existing formatting
+•Create and update a Table of Contents
+•Quicker navigation to different sections in a document
+•Retain document structure when export to PDF
+•Accessible to any assistive technology like screen readers
+•Save time and save lives!

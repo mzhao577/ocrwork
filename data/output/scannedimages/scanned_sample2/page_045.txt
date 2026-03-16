@@ -1,0 +1,39 @@
+¢ The purpose of Alt Text is to allow low vision or blind users who
+use text-to-speech assistive technologies (AT), such as screen
+
+Image Alte rm ative readers, to understand the purpose of graphic images. Sighted
+
+users usually don’t see alt text unless they use AT.
+
+or Alt Text ¢ Screen readers and other AT can’t convert images into texts. So,
+when writing alt text, consider the following for images:
+
+o What is its purpose?
+
+Accessibility ~_ ~ o Is the image important enough to be there?
+
+user-friendly document for NEN o If there is no description, what will the screen reader users
+CSUN student success _~
+
+miss?
+
+o Beconcise and eliminate unnecessary words.
+
+o When completing the alt text, use proper punctuation such as
+periods to indicate the end of the alt text. Without proper
+punctuation, some screen readers will run the alt text into the
+body text that follows and cause confusion to the user.
+
+° “Image of...”, “Photo of...” is not needed because screen readers
+
+Screen readers and other AT announce that it’s . . .
+and other AT announce that it’s an “image” or “graphic”.
+
+an “image” or “graphic”, then read the alt text:
+
+“Three plants going through transformation * There is no limit to the number of characters, but keep alt text
+with text quote Accessibility user-friendly . 4
+document for CSUN student success.” descriptions short around 200 characters or less.
+
+* Don’t use images of text for headings instead use live text (fully
+editable or selectable text).

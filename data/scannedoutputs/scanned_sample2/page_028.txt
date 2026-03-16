@@ -1,0 +1,105 @@
+Adding Tools to Navigation Pane
+
+These are the primary tools needed to create an accessible PDF:
+
+Option 1: View > Show/Hide >Navigation >
+
+Tags and Content Pane
+
+File Edit indow Classifications Help
+
+Home Rotate View
+
+Page Navigation
+
+y
+Page Display
+
+Zoom
+
+Tools
+
+Display Theme Y Tools Pane
+
+Toolbar Items
+
+Fal Read Mode Ctrl+H
+Page Controls
+Full Screen Mode Ctrl+L
+= v Menu Bar
+EP Tracker...
+
+Button Labels
+Read Out Loud Rulers & Grids
+
+Compare Files Cursor Coordinates
+
+>
+Show/Hide , Navigation Panes >
+
+Shift+F4
+
+F9
+
+| aU OmEC)
+
+Uy Articles
+G Attachments
+
+| Bookmarks
+
+©) Destinations
+
+g Layers
+
+fs)
+& Model Tree
+
+Z Order
+itt Page Thumbnails
+
+Zr Signatures
+
+Show Navigation Pane F4
+
+Reset Panes
+
+Option 2: On left pane, right-click to select
+
+Tags and Content Pane
+
+File Edit View Window Classifications Help
+
+Home Tools Doc1.pdf
+
+w Oe BQ
+
+o On left pane,
+
+right-click to select
+
+Content and Tags
+Panels
+
+UY Articles
+G Attachments
+[| Bookmarks
+
+©) Destinations
+g Layers
+
+Po
+
+$ Model Tree
+
+ZH Order
+
+iit Page Thumbnails
+Gy, Signatures
+
+Reset Panes
+
+Hide Navigation Pane Buttons
+
+x
+

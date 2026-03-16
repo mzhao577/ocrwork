@@ -1,0 +1,11 @@
+What is a Tagged PDF?
+TAGS are the HTML code 
+accessibility markup all of 
+the document text, images, etc. Tags are invisible identifiers that will tell screen readers and other assistive technology (AT) 
+an element is…
+•header <H1 -H6>
+•paragraph <P>
+•image <Figure>
+•list item <LI>
+•hyperlink <Link>
+•table data cell <TD>

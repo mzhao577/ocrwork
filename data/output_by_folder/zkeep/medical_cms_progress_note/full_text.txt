@@ -1,0 +1,220 @@
+=== Page 1 ===
+   
+ 
+Progress Note  (Electronic)  Guidance  (CMS -10564)  
+ 
+Purpose:   
+ 
+The purpose of th is Progress Note is to assist the Physician, and/or Medicare allowed Non -Physician 
+Practitione r (NPP)* , in document ing patient eligibility for the Medicare home health benefit . This document can 
+be placed in the “progress notes” section of the patient’s medical record.  The use of th is Progress Note is 
+entirely  voluntary/optional and is intended  ONLY to ass ist the phys ician or allowable Medicare NPP  in 
+documenting patient eligibility (i.e. the encounter  and homebound status of the patient.)   
+ 
+The completion of this Progress Note alone  will not substantiate eligibility for the Medicare Home Health 
+benefit.  
+ 
+Medicare Home Health Services Patient Eligibility Certification Requirements:  
+ 
+The face -to-face encounter is one of several requirements for the initial certification of eligibility for Medicare 
+home health services .  For the initial certification of eligi bility for Medicare home health services , a physician 
+must certify (attest) that the patient meets all of the following criteria:  
+ 
+1. The patient is, or was, confined to the home at the time home health services were furnished;  
+2. The patient needs, or needed, skilled services;  
+3. The patient is under the care of a physician;  
+4. The patient is receiving or  received home health services while under a plan of care established and 
+reviewed by a physician; and  
+5. The patient has had a face-to-face encounter that:  
+ occurred no more than 90 days prior to the home health start of care date or within 30 days of 
+the start of the home health care;  
+ was related to the primary reason the patien t requires home health services;  and 
+was performed by a phy sician or allowed non -physician practitioner.  
+            The certifying physician must also document the date of the encounter.  
+Who Can Complete  this Progress Note :   
+ 
+The following practitione rs are eligible to satisfy the face -to-face encounter re quirement described in # 5 above 
+and may complete th is Progress Note : 
+1. The physician who certifies the patient’s eligibility for home health benefit/services;  
+2. A physician, with privileges, who cared for the patient in an acute or post -acute care facility fr om which 
+the patient was directly admitted to home health;  or 
+3. A Medicare allowed NPP *, defined as a  nurse practitioner, clinical nurse specialist, certified nurse 
+midwife or a physician assistant (as those terms are defined in s ection 1861(aa)(5) of the So cial Security 
+Act).  
+ 
+The Home Health agency cannot complete this form and send to the physician for his signature.  
+ 
+The Patient’s Medical Record is the Basis for Certification :  
+ 
+The certifying physician shall use the patient’s medical record as a basis for certification of home health 
+eligibility. Therefore, in cases where an eligible entity other than the certify ing physician completes the face -to-
+face encounter , the certifying p hysician may review, sign -off (evide ncing his/her review ) and incorporate the 
+completed Progress  Note  into the patient’s medical record held by the certifying physician .  
+ 
+
+=== Page 2 ===
+   
+ 
+Progress Note  (Electronic) Form Approved OMB No. 0938 -1318  
+ 
+The use of this document is entirely voluntary/optional . 
+Patient : 
+ 
+First Name : ______________________  Last Name : _________________________ Date of Birth : __/__/____  
+ 
+Name of physician/Medicare allowed non -physician practitioner (NPP)* who performed the en counter:         
+____________________________     Date of encounter : __/__/____     
+ 
+Is this encounter with the patient related to the primary reason the patient requires Home Health Services?   
+Yes   No   (Please check one :)  
+ 
+Subjective : 
+ 
+Patient’s Chief  Complaint:   
+_____________________________________________________________________________________________________________________________ ___________  
+__________________________________________________________________________________________  
+ 
+    Check if not completing a history and physical during the encounter .  
+[In the e -clinical template, the “History of Present Illness” and “Review of Systems” will not appear if 
+checked.]  
+ 
+History of Present Illness :   
+Pain Assessment :  
+Location:     ______________________________  
+Quality:       aching       burning       radiating      other : _____________________________________________________________________________________  
+Severity:      1         2          3          4          5         6          7         8         9           10 
+Duration:     1day     2days      3days      other:  _______________________________________________________________________________________________  
+Timing:        constant      intermittent      time of d ay? _________________________________________________________________________________________  
+Context:      better/worse        at work       rest      sleep          other : _______________________________________________ _______________________________  
+Moderating Factors: better/worse with       heat            ice          other: ________________________________________________________________________  
+       Associated Signs/Symptoms:  ___________________________________________________________________ _________________________________________ __ 
+Medical History:  ____________________________________________________________________________________  
+______ ______________________________________________________________ ______________________________  
+Surgica l Procedure(s) History:  ________________________________________________________________ ___ 
+_______________________________________________________________________________________ ___ 
+Allergies: __________________________________________________________________________________________ _ 
+Current Medications:  _________________________________________________________________________________  
+____________________________________________________________ _______________________________________  
+___________________________________________________________________________________________________  
+ 
+Review of Systems :  
+Eyes:      visual changes   other_____________________________________________________________ __________________________________________________ _____  
+ENT:     sore throat     rhinitis    other _______________________________________________________________________________________________________ _____  
+CV:       chest pain     other  _________________________________________________________________________________________________________________ _____   
+Resp:     SOB    cough    hemoptysis   other ________________________________________________________________________________________ ________ _____  
+Gastro:    nausea    vomiting    diarrhea    abd pain  other __________________________________________________________________________________ _____  
+GenitoUr :    dysuria      frequency      urgency     other _____________________________________________________________________________________ _____  
+Musc/Skel :   back pain    joint pain      other _______________________________________________________________________________________________ _____  
+Skin/Breast :      rash     itching    other  ____________________________________________________________________________________________________ _____  
+Neurologi c:    numbness      dizziness    other   ______________________________________________________________ _______________________________ _____        
+Psych :    anxiety     depression      other  ____________________________________________________________________________________________________ _____  
+Endocrine :     hypoglycemia    thirsty     other  ________ ______________________________________________________________________________________ _____  
+Hem/Lymph:       anemia     bleeding   other _______________________________________________________________________________________________ _____  
+
+=== Page 3 ===
+   
+ 
+Allergy/Immune:     deficiency    other  _____________________________________________________________________________________________________ _____  
+Other:    ___________________________________________________________________________________________________________________ ___________________ _____  
+ 
+Objective :  
+ 
+ 
+Vital Signs:  T=________     P=_________     R=__________    BP=_______/_______   Height=__________Weight=_______________  
+General Appearance_________________________________________________________________________________________ __   
+Objective Findings: ___________________________________________________________________________________________      
+____________________________________ _____________________________________________________________    
+_________________________________________________________________________________________________  
+_________________________________________________________________________________________________  
+ 
+Assessment : 
+_________________________________________________________________________________________________ _ 
+______________________________________________ ___________________________________________________  
+_________________________________________________________________________________________________  
+ 
+Plan/Orders:  
+____________________________________________________________________________________________ _____ _ 
+_________________________________________________________________________________________________  
+_________________________________________________________________________________________________  
+ 
+Plan for Home Health Services:  
+ 
+  This patient requires Skilled Nursing Services :  (Please specify .) 
+_________________________________________________________________________________________________
+____________________________________________________________________________________________ ______  
+ 
+This patient needs to be evaluated and treated  for one or more of the following services :  (Check all that apply.)   
+ 
+ Physical therapy: ( specify services needed ) ____________________________________________________________________ __ 
+__________________________________________________________________________________________________________ __ 
+__________________________________________________________________________________________________________ __ 
+    
+ Occupational Therapy: ( specify s ervices needed ) _________________________________________________________________ _ 
+___________________________________________________________________________________________________________ _ 
+________________________________________________________________ ___________________________________________ _ 
+  
+  Speech Language Pathology: ( specify services needed ) ___________________________________________________________ _ 
+____________________________________________________________________________________________ ________________  
+____________________________________________________________________________________________________________  
+  Check here if you will not be following this patient’s care after discharge.  
+   [In the e -clinical template the “Naming the Com munity Physician” section will not appear if not checked.]  
+ 
+To receive home health services, the patient must be homebound and meet Medicare’s criteria for “Confined 
+to the Home.”  
+ 
+  Check here and c ontinue i f choosing to document homebound status  as part of this Progress Note . 
+[In the e -clinical template, the “Homebound Status” section will not appear if not checked.]  
+  Home health services are not required at this time
+ 
+Homebound Status : 
+ 
+Medicare considers the patient  homebound if the ONE of criteria  A and BOTH  of criteria B are met:  
+ 
+Criteria A : Select and describe at least one.  
+
+
+=== Page 4 ===
+   
+ 
+ 
+  Because of illness or injury, the patient needs the aid of supportive devices such as crutches, canes, wheelchairs, and 
+walkers ; the use of special transportation; or the assistance of another person in order to leave their place of residence .  
+Specify:  _________________________________________________________________________________ ___________  
+___________________________________________________________________________________________________  
+_______ ________________________________________________________________ ________________________  
+ The patient has a condition such that leaving his or h er home  is medically contraindicated .  
+Specify : __________________________________________________________________________________ __________  
+___________________________________________________________________________________________________  
+ 
+Criteria B : (To meet Medicare’s confined to home requirement, patient must meet at least one Criteria A AND both Criteria B. ) 
+ 
+ There must exist a normal inability to leave the home .  
+Specify:  _________ ___________________________________________________________________________________  
+___________________________________________________________________________________________________  
+ 
+  Leaving home  requires a  considerable and taxing effort .   
+Specify:  __________________________________________________________________________________ __________  
+___________________________________________________________________________________________________  
+ 
+Note: If the patient does in fact leave the home, the patient may nevertheless be considered homebound if the absences from the home are 
+infrequent or for periods of relatively short duration, or are attributable to the need to receive health care treatment  (examples: outpatient dialysis,  
+or chemotherapy/radiation t herapy, attendance at adult day centers to receive medical care)  
+ 
+ 
+ 
+ 
+ 
+                
+_____________________________________________                       ____________________________________                    ____/____/_____  
+PHYSICIAN OR MEDICARE ALLOWED NPP* SIGNATURE                                            PRINTED NAME                                                                           DATE   
+* Medicare allowed NPP : Physician assistant, nurse practitioner,   
+clinical  nurse specialist or certified nurse midwife  
+who is working in accordance with  State law  
+and in collaboration with the certifying physician  
+or in collaboration with an acute or post -acute care  
+physician with privileges who cared for the patient in the  
+acute or post -acute care facility from which the patient was  
+directly admitted to home health.  
+ 
+ 
+Approved Form OMB No. 0938 -1318   Form CMS -10564 (12/2019)  

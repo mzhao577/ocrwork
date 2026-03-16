@@ -1,0 +1,5 @@
+Delete Empty Tags
+Empty tags mean no text underneath the tags. Screen 
+readers will say “ Blank ”. Recommend to delete any empty 
+tags by selecting <P> or <H2>, right -click to select “Delete 
+Empty Tags”.

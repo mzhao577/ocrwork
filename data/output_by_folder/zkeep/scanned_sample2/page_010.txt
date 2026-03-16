@@ -1,0 +1,7 @@
+Scan & OCR Steps, 2 of 2
+Now Live text should be 
+searchable ; this allows users to 
+use search functions like CTRL + F 
+to look for specific terms and find 
+what they need quickly or to 
+copy/paste text.

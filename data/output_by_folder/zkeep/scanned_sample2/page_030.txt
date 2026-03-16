@@ -1,0 +1,6 @@
+Tags Pane, 2 of 2
+Tags are shown as an 
+expandable “tree”
+•Up and Down arrow keys to 
+navigate tags tree.
+•Right and left arrow keys to expand and collapse the text.

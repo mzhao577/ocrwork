@@ -1,0 +1,105 @@
+Check Accessibility
+
+First run the Accessibility Full Check at the beginning and at the end.
+
+R Autotag Document
+
+Reading Options
+® Accessibility Report
+my Identify Form Fields
+Set Alternate Text
+*\ Setup Assistant
+
+Ly Reading Order
+
+Accessibility Checker Options
+
+Report Options
+
+[Attach report to document
+Page Range
+© All pages in document
+
+Pages from |2
+
+Checking Options (31 of 32 in all categories)
+
+to 2
+
+WZ] Create accessibility report Folder: C:\Users\sem72178\Documents
+
+is
+
+Category: [Document
+
+M) Accessibility permission flag is set
+
+¥] Document structure provides a logical reading order
+WZ) Text language is specified
+
+) Document title is showing in title bar
+
+1) Bookmarks are present in large documents:
+
+(| Document has appropriate color contrast
+
+[] Show this dialog when the Checker starts
+
+Start Checking
+
+Cancel
+
+$MOSOUS
+
+Accessibility Checker x
+
+w Document (4 issues)
+
+of Accessibility permission flag - Passed
+ Image-only PDF - Passed
+
+@ Tagged PDF - Failed
+
+@ logical Reading Order - Needs manua
+Primary language - Passed
+
+@ Title - Failed
+
+of Bookmarks - Passed
+
+@ Color contrast - Needs manual check
+
+> Page Content (2 issues)
+> Forms
+\ Alternate Text (5 issues)
+
+(x) Figures alternate text - Failed
+© Nested alternate text - Failed
+© Associated with content - Failed
+@ Hides annotation - Failed
+> @ Other elements alternate text - Failer
+> Tables (4 issues)
+
+> lists (2 issues)
+
+Vv Headings (1 issue)
+
+© Appropriate nesting - Failed
+
+>
+
+* Accessibility checkers
+results in bold text have
+one or more issues/failed
+that need to fix.
+
+° If you have a failure, you
+can right-click on any
+item in the report and
+select “Explain” that will
+link to Adobe webpage to
+explain the problem.
+
+¢ If the results not in bold
+text, that section has
+passed.

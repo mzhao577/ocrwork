@@ -1,0 +1,80 @@
+Headings and
+Document Structure
+
+Example 1: Reading long, dense text
+documents can be a daunting task for
+learners
+
+Example 2: Well-structured documents help readers
+organize and process texts
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
+Need assistance or have a question not answered here? Please contact the Universal Design
+Center (UDC) at UDC@csun.edu or, during business hours (Monday through Friday, 8am to 5pm
+Pacific time), at (818) 677-5898.
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology.
+
+“Universal design” takes this concept one step further, to ensure that everyone can perceive,
+understand, engage, navigate and interact regardless of ability or preference.
+
+The UDC supports the campus community in their efforts to make it possible for individuals to
+learn, communicate, and share via information and communication technology. One way we do
+this is by assisting the campus community to ensure their information and communication
+technology is interoperable, usable and accessible, so that individual learning and processing
+styles and/or physical characteristics are not barriers to access.
+
+The role of the UDC is to help CSUN implement business practices which enable the campus to
+meet policy standards under the Accessible Technology Initiative Coded Memoranda.
+What does this mean to me?
+
+Everyone has a part in creating accessible and usable information. The responsibility of creating
+and maintaining accessible content falls to the entire campus community.
+
+Universal Design Center
+
+Heading 1
+
+Accessibility Statement
+
+As part of our commitment to excellen®a through diversity and inclusion, California State
+University, Northridge (CSUN) strives to en3uge that campus communication and information
+technology is accessible to everyone. The Cali ja State University system statement on
+accessibility is articulated in California State Unive - Executive Order 1111, in accordance
+with both federal and state laws including the America ith Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
+Need help? Heading
+
+Nee@ assistance or have a question not answered here? Please ci
+Design Center (UDC) at UDC@csun.edu or, during business hours (
+Friday, 8am to 5pm Pacific time), at (818) 677-5898,|
+
+Normal
+paragraph
+
+act the Universal
+
+hat is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access
+information and to technology. “Universal design” takes this concept one st
+ensure that everyone can perceive, understand, engage, navigate and int
+ability or preference.
+
+0 facilities, to
+further, to
+ct regardless of
+
+Universal Design Center Mission
+
+The UDC supports the campus community in their efforts to make it possible for individuals to
+learn cammunicate and chare via information and communication technolosy One wav we da.
+

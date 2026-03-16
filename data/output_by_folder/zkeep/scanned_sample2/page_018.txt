@@ -1,0 +1,18 @@
+Canvas Ally Course Steps, 2 of 2
+Ally Attempts To
+•Improve the quality of the scan
+•OCRed PDF with Searchable Text
+•Tag itReview and Correct Tags
+Make sure all items have appropriate tags
+•Run Initial Accessibility Check
+•Regular Text: Text/Paragraph
+•Headers: Heading 1 –6
+•Images: Figure
+•Links: Link + OBJR
+•Form Fields: Form
+•Decorative Content (e.g. Lines, text 
+boxes, etc.): Background/Artifact
+•Add Document Title and Language
+•Verify Reading Order
+•Verify Color Contrast
+•Run Final Accessibility Check

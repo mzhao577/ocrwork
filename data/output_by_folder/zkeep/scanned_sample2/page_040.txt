@@ -1,0 +1,3 @@
+Heading Tags Sample
+Content highlighted from tags tree
+For multiple tags selection, CTRL + select tags (PC) or Command + select tags (Mac)

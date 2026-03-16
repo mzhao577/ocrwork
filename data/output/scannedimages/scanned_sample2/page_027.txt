@@ -1,0 +1,88 @@
+TAGS are the HTML code
+accessibility markup all of
+the document text, images,
+etc. Tags are invisible
+identifiers that will tell
+screen readers and other
+assistive technology (AT)
+an element is...
+
+¢ header <H1-H6>
+* paragraph <P>
+
+* image <Figure>
+
+* list item <LI>
+¢ hyperlink <Link>
+
+table data cell <TD>
+
+What is a Tagged PDF? an
+
+<Figure>
+<Link>
+<Table>
+
+<Sect>
+<Artifact>
+
+iy
+
+-@
+
+Vv & kgs
+
+Vv
+
+ey Accessibility Statement
+
+v ge
+
+ay AS part of our commitment to exc
+
+___ Universal Design Center
+(=) <Sect>
+
+e ae
+v @ <H2>
+
+2lecessibility Statement
+
+P|s part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
++ |H3bed help?
+
+Vv @ <H3>
+
+. |P|eed assistance or have a question not answered here? Please contact the Universal
+| en Design Center (UDC) at UDC@csun.edu or, during business hours (Monday through
+Vv @ Friday, 8am to 5pm Pacific time), at (818) 677-5898.
+
+jay Need assistance or have a questio
+Vv @ <H2>
+
+jay What is Accessibility? What is Uniy
+> @<P>
+
+Vv ¢ <Figure>
+
+er
+
+[H2Vhat is Accessibility? What is Universal Design?
+
+Pn this context, “accessibility” means that people with disabilities have access — to facilities, to
+
+information and to technology. “Universal design” takes this concept one step further, to
+ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+ability or preference.
+
+| Image (76): w:315 h:315
+
+> @ <H2>
+@ <P>
+

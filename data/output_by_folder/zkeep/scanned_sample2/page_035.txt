@@ -1,0 +1,10 @@
+Verify Logical Reading Order
+Ensure the TAGS Tree are in the correct logical order to match the document pane. Manual rearrange tags as 
+needed in the TAGS pane . After making these adjustments, start from the top of the tags tree and move 
+through the tags pane sequentially using the down arrow key. A logical reading order start from left to right, 
+top to bottom as illustrated. The Document Pane example is a two- columns layout hence the logical reading 
+order starts with the first column then second column.
+Left: Incorrect 
+reading order
+Bottom: Correct 
+reading order

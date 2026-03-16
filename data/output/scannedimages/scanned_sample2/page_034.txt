@@ -1,0 +1,30 @@
+Accessibility Checker — Manual evaluation
+
+The accessibility checker will always flag | aay Gre J
+two items that require manual evaluation: 7 &:
+
+* Logical Reading Order @° mee
+
+Accessibility permission flag - Passed
+
+¢ Color Contrast
+
+Image-only PDF - Passed
+Tagged PDF - Passed
+(_ Logical Reading Order - Needs manual check
+
+Primary language - Passed
+
+Two question marks @ will always stay in
+Document (2 issues) section even if you
+right-click and select Pass. It just there as a |
+reminder to conduct manual check. > Page Content
+
+niversal ~esign —enter
+
+3) Title - Failed
+
+Bookmarks - Passed
+
+csun.edu/udc
+

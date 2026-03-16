@@ -1,0 +1,9 @@
+What are PDF Title and Language?
+Title
+•A PDF title is a more descriptive and 
+meaningful version of the file name. PDF titles are often visible in the PDF window or tab. This visibility makes it easier to distinguish multiple PDFs before diving in.
+•When multiple PDFs are open, well defined PDF titles allow for easier distinction between them. This distinction is particularly useful when relying on screen readers.
+Language
+Screen readers can "speak" various languages —as long the content 
+language is identified. If the screen reader does not support or cannot speak the defined language, the user might be informed of the content language, even if that content cannot be properly read.
+WebAIM : Document and Content Language

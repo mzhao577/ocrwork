@@ -1,0 +1,27 @@
+Action Wizard, 3 of 5
+
+Step 7: Detect Form Fields. The Wizard will automatically detect form fields on the
+PDF. If the document has space boxes for form fields, select Yes, Detect Form
+
+Fields. If not, select No, Skip this Step.
+
+Is this document intended to be used as a fillable form? If so, choose yes to detect
+form fields.
+
+Yes, Detect Form Fields No, Skip this Step Cancel
+
+Step 9: The Action Wizard can be set up to always
+detect for any image present in the document.
+Select OK to scan the PDF for missing alternate
+texts.
+
+Step 8: Click the desired Reading
+Adobe Acrobat x Language and select OK.
+
+Set Reading Language x
+Language: (ayia v
+Adobe Acrobat x
+SM Acrobat will detect all figures in this document and display any figures with missing
+Ly alternate text.
+Do not show this message again
+

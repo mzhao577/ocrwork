@@ -1,0 +1,92 @@
+Verify Logical Reading Order
+
+Ensure the TAGS Tree are in the correct logical order to match the document pane. Manual rearrange tags as
+needed in the TAGS pane. After making these adjustments, start from the top of the tags tree and move
+through the tags pane sequentially using the down arrow key. A logical reading order start from left to right,
+top to bottom as illustrated. The Document Pane example is a two-columns layout hence the logical reading
+order starts with the first column then second column.
+
+2
+Fy Left: Incorrect
+4 reading order
+ul 1
+10 Bottom: Correct
+3 | 5 reading order
+6
+9
+
+W
+
+g
+
+rm
+
+om
+
+0) Tags Tree
+
+niversal Design Cente
+
+v ¢ <Document> a
+v ¢ ‘Art
+VG <Sect> This site is a project of the Accessible Technology
+-@ feat Initiative (ATT) of the California State University
+
+system. “It is the policy of the CSU to make
+Ss ees eel information technology resources and services
+accessible to all CSU students, faculty, staff and the
+
+v @<P>
+general public regardless of disability.”
+fy This site is a project of the Accessible Tec
+
+All CSU programs, services, and activities should be
+
+accessible to all students, staff, faculty, and the general
+4 public. This encompasses all technology products
+used to deliver academic programs and services,
+student services, information technology services, and
+auxiliary programs and services.
+
+i Initiative (ATI) of the California State Univ
+
+By system. “Itis the policy of the CSU to mak
+
+By information technology resources and set
+By accessible to all CSU students, f
+
+ey general public pegarlfess of disability.”
+
+> 4 <P>
+> @ <Figure> —_—— Universal
+— Center
+V @ <t2>
+| UDC Mission
+
+Accessibility Statement
+> @ <P>
+
+UDC Mission
+
+The UDC supports the campus community in
+
+their efforts to make it possible for individuals to
+learn, communicate, and share via information and
+communication technology. One way we do this is
+
+by assisting the campus community to ensure their
+information and communication technology is
+interoperable, usable and accessible, so that individual
+learning and processing styles and/or physical
+characteristics are not barriers to access.
+
+Campus Responsibility
+Everyone has a part in creating accessible and usable
+information. The responsibility of creating and
+
+maintaining accessible content falls to the entire
+campus community.
+
+Document
+Pane
+

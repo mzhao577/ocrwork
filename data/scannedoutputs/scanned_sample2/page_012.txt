@@ -1,0 +1,74 @@
+Option 2: Action Wizard Steps, 1 of 5
+
+¢ The Make Accessible feature of the Action Wizard is
+designed to crawl through a PDF to detect headings,
+images, tags, reading order, etc.
+
+¢ The easy prompts will guide a user through the
+process of making the PDF accessible.
+
+¢ It should not be the only tool used to check a PDF's
+accessibility. User still need to go through Full Check
+for accessibility mark up.
+
+Step 1: Open Scanned Document
+Step 2: Select Action Wizard Tool
+Step 3: Select Make Accessible
+Step 4: Start button
+
+®@ Accessibility
+
+[Z) Action Wizard
+
+BS Create PDF ®
+G2 Edit PDF
+
+B& Export PDF
+
+a Comment
+
+[] Organize Pages
+
+ii scan & OCR
+
+ACTIONS LIST
+
+Make Accessible
+
+Archive Documents
+
+i¥} Publish Sensitive Inform
+[¥} Optimize for Web and M
+
+Optimize Scanned Docu
+
+Prepare for Distribution
+
+€ Make Accessible
+
+Files to be processed:
+
+Is) Action Wizard Scan.pdf
+
+[% Add Files...
+
+1. Prepare
+
+Set a title and ensure it displays in the
+
+window title bar.
+
+fa Add Document Description
+
+El Set Open Options
+
+A) Recognize Text using OCR
+
+Gi s
+“4 Detect Form Fields
+
+[5 Set Tab Order Property
+7 °
+
+2. Set Language & Tags
+

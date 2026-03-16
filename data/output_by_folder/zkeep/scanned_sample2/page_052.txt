@@ -1,0 +1,12 @@
+Order Pane
+•DO NOT use Order Pane to 
+rearrange logical reading order in 
+sequence. Screen readers like JAWS, 
+NVDA, VoiceOver don’t use Order 
+Pane to read the document instead they use TAGS to read the 
+document. 
+•In theory the Order Pane and Tags Pane are supposed to match but 
+often they don’t for more complex 
+or untagged documents. 
+•If the reading order is incorrect order, go to TAGS Pane to rearrange 
+the correct order.

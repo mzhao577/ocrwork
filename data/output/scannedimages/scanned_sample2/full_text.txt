@@ -1,0 +1,2749 @@
+=== Page 1 ===
+PDF Scanned &
+Optical Character Recognition (OCR)
+
+niversal ~esign —enter
+
+csun.edu/udc
+
+
+
+=== Page 2 ===
+Adobe Creative Cloud for Faculty & Staff
+
+¢ Adobe Creative Cloud software is now available for use (at no
+additional charge) on all faculty and staff university-owned
+computers, labs and classroom devices, and for all students.
+
+¢ Please note that this deployment of Adobe software is not
+available for use on personally-owned faculty and staff
+devices at this time.
+
+¢ Learn more about Adobe Creative Cloud for Faculty & Staff
+
+¢ Adobe Reader is for viewing, printing, signing, sharing, and
+———— annotating PDFs. Adobe Reader doesn’t have Accessibility
+Adobe Acrobat DC § checking tool.
+
+©) —niversal Oesign enter
+
+csun.edu/udc
+
+
+
+=== Page 3 ===
+Scanned Documents
+
+By wy |
+
+ws ay TO THE OWNERS OF WATER Ricrts You can therefore see that one inch of
+i 5 IN OWENS VALE ay water will cover one acro of land over
+8) a eighteen feat deep in 365 days. The
+is Y Service required of water on new sandy
+7 x land is to cover the land to a depth of
+bar four foet during the irrigating season,
+0 a) Counting off One-ninth for loss in reser.
+is ‘ Voir and ditches, an inch of water
+RQ. SS) Should irrigate foup acres of alfalfa,
+S *< Here, then, is the value of an inch of
+ay water, used for raising alfalfa on land
+ln that we consider takes more than the
+
+<3 Yel iverage amount of water. Theaverage
+
+inch of yield of alfalfa, including pasturage in
+- We base our spring and fall, is five tons per acre ;’
+‘belief on ¢ nts made by the average net value clear of labor is $2.00
+se City Engineer of Los jAngeles. The per ton. eanaleein ...
+
+SMa M ese
+
+niversal ~ esign —enter
+
+* Screen readers or other assistive Seen o8y are
+unable to convert images scanned into text.
+
+¢ Scanned documents, especially poor quality scans
+or handwriting, can be difficult to read for
+everyone.
+
+¢ Scanned documents should be avoided as much
+as possible.
+
+¢ If the document can be found in the rary @
+reference to the library item can be provided.
+
+* Benefits of having digital copy
+* Can be searched
+¢ Can copy and paste text
+
+csun.edu/udc
+
+
+
+=== Page 4 ===
+Scanned Documents - OCR
+
+¢ Success is highly dependent upon:
+* The quality of the scan depends on the device
+¢ The quality of the OCR engine “Gg
+
+* Some Gotchas “2p -
+
+¢ Colored backgrounds
+¢ Handwritten text
+¢ Poor quality scan depends on the device
+
+e After improving the quality of the scan document,
+next step is tagging PDF accessibility markup.
+
+‘i
+
+@
+\
+
+‘y\ ‘
+
+<H1-H6>
+<P>
+
+<L>
+<Figure>
+<Link>
+<Table>
+<Sect>
+<Artifact>
+
+
+
+=== Page 5 ===
+Live or Real Text
+
+¢ To check if the text is “live” or “real,” try to select the text with your cursor.
+If you’re unable to highlight/select it then it is not real text, and therefore
+not accessible for all users.
+
+¢ Live text is searchable; this allows users to use search functions like
+CTRL + F to look for specific terms and find what they need quickly or to
+copy/paste text.
+
+Universal Design Center
+everyone.
+e Easy to get
+
+e Easy to understand
+e Easy to use
+
+Accessibility is for everyone.
+
+
+
+=== Page 6 ===
+Tools Pane Set Up
+
+BB Adobe Acrobat Pro DC
+
+File Edit View Window Classifications Help
+
+If this is your first time ee
+setting up Adobe Acrobat BR ow a ~ a
+
+softwa re eee Create PDF Combine Files Organize Pages Edit PDF Export PDF
+Ope A Open | + Oper Ope
+
+Protect & Standardize
+
+Select Tools Tab and Add 0 Zz Bl
+
+S h O rtc U t to t h e rig ht p a al e Protect Redact PDF Standards Optimize PDF
+Open | ~ | [ add |~ Add | + [ add [+
+
+¢ Accessibility
+
+¢ Action Wizard
+° Scan & OCR Fl =
+
+Create Custom Tool Action Wizard Index JavaScript
+
+Customize
+
+Add | ~ |
+
+Add | |} [Add [| Add | ~
+
+
+
+=== Page 7 ===
+THREE ways to convert scan document to OCR
+
+Review and Correct Tags
+
+Review and Correct Tags
+Make sure all items have appropriate tags
+
+¢ Run Initial Accessibility Check
+* Regular Text: Text/Paragraph
+
+Headers: Heading 1-6
+
+Images: Figure
+
+Links: Link + OBJR
+
+Form Fields: Form
+
+Decorative Content (e.g. Lines, text boxes,
+etc.): Background/Artifact
+
+¢ Add Document Title and Language
+° Verify Reading Order
+
+° Verify Color Contrast
+
+¢ Run Final Accessibility Check
+
+
+
+=== Page 8 ===
+Text Recognition
+
+| Scan & OCR [> Insert ¥ re Enhancey A\A Recognize Text ¥ Bates Numbering ¥ (3 KD) QQ
+
+Bates Numbering ¥ kK ) Q
+
+. Pages Language _ English (US) + 14% settings rext Cancel
+¢ Need to conduct Optical Character
+Recognition (OCR) — * esl
+
+Pages iter
+
+A
+ik Insert fe Enhance ¥
+
+All pages
+
+° Text Recognition Types: .—l Ll
+o Searchable Image cr: 4
+
+Accessible Wo!
+a POF. Settings
+
+O S e€ ) re h ) b | e€ | m ) ge (exa ct) Headings Document Language —_ English (US) v
+Headings are st dings
+
+o Editable Text and Images 106. The ti Output [Eatabe Tec andimeges
+
+Searchable Image
+Downsample To | searchable Ima
+
+Lists
+
+niversal ~esign —enter
+
+csun.edu/udc
+
+
+
+=== Page 9 ===
+PF wn bP
+
+O} ei are)a Scan & OCR Steps, 1 of 2
+
+Open Scanned PDF
+
+Run Scan & OCR Tool
+
+Enhance “Scanned Document” (Recognize Text Checked)
+Multiple runs of Enhance to improve the quality of the scan
+
+1/1 ky © @ wax ~- Br F AD k.
+[R Insert » AA Recognize Text + Bates Numbering ¥ a N Q
+
+Search tools
+
+@ Accessibility
+Fidy Scanned Documen N
+[¥] Action Wizard PO} Camera Image .
+
+[] Organize Pages
+
+Pe Create PDF Ju h NU) ‘S) iS) 625% E~ T FA vA &
+—= Edit PDF [ Insert ¥ [a Enance Enhance \A Recognize Text + fos] Bates Numbering ¥ KS Qh Q
+
+
+
+=== Page 10 ===
+Scan & OCR Steps, 2 of 2
+
+Enhance Scanned PDF
+
+All Pages 7 .
+oe On kGOOes- BP BLE
+FromPage [ft To fi [ Insert ~ Gi Enhance Aa Recognize Text» —_ [as] Bates Numbering + a nA
+oon
+
+Apply Adaptive Compression
+
+Pages CurrentPage
+
+Color/Grayscale: _JPEG2000
+
+Monochrome: —JBIG2 (Lossy)
+
+Now Live text should be
+searchable; this allows users to
+use search functions like CTRL + F
+to look for specific terms and find
+what they need quickly or to
+copy/paste text.
+
+English (US)
+
+Images)
+
+
+
+=== Page 11 ===
+Scan & OCR Steps - Tagging Phase: Autotag Document
+
+Review and Correct Tags
+
+Make sure all items have appropriate tags
+&
+
+¢ Run Initial Accessibility Check
+Regular Text: Text/Paragraph
+Headers: Heading 1-6
+
+Images: Figure
+
+Links: Link + OBJR
+
+Form Fields: Form
+
+Decorative Content (e.g. Lines, text boxes,
+etc.): Background/Artifact
+
+¢ Add Document Title and Language
+° Verify Reading Order
+
+fe Reading Order * Verify Color Contrast
+
+¢ Run Final Accessibility Check
+
+Reading Options
+‘@) Full Check
+
+® Accessibility Report
+
+Cy Identify Form Fields
+
+FY Set Alternate Text
+
+t! Setup Assistant
+
+
+
+=== Page 12 ===
+Option 2: Action Wizard Steps, 1 of 5
+
+¢ The Make Accessible feature of the Action Wizard is
+designed to crawl through a PDF to detect headings,
+images, tags, reading order, etc.
+
+¢ The easy prompts will guide a user through the
+process of making the PDF accessible.
+
+¢ It should not be the only tool used to check a PDF's
+accessibility. User still need to go through Full Check
+for accessibility mark up.
+
+Step 1: Open Scanned Document
+Step 2: Select Action Wizard Tool
+Step 3: Select Make Accessible
+Step 4: Start button
+
+®@ Accessibility
+
+[Z) Action Wizard
+
+BS Create PDF ®
+G2 Edit PDF
+
+B& Export PDF
+
+a Comment
+
+[] Organize Pages
+
+ii scan & OCR
+
+ACTIONS LIST
+
+Make Accessible
+
+Archive Documents
+
+i¥} Publish Sensitive Inform
+[¥} Optimize for Web and M
+
+Optimize Scanned Docu
+
+Prepare for Distribution
+
+€ Make Accessible
+
+Files to be processed:
+
+Is) Action Wizard Scan.pdf
+
+[% Add Files...
+
+1. Prepare
+
+Set a title and ensure it displays in the
+
+window title bar.
+
+fa Add Document Description
+
+El Set Open Options
+
+A) Recognize Text using OCR
+
+Gi s
+“4 Detect Form Fields
+
+[5 Set Tab Order Property
+7 °
+
+2. Set Language & Tags
+
+
+
+=== Page 13 ===
+Action Wizard Steps, 2 of 5
+
+Step 5: The document description gives the document a
+
+Description x proper title to be recognized by assistive technology.
+Uncheck the Leave As Is box and provide a title to the
+[J Leave As Is
+aa Step 6: The recognized text option will scan the document
+
+i] Leave As Is
+
+using the selected language. Select the desired Language and
+Output Editable Text and Images.
+
+Author:
+
+|] Leave As Is
+
+Recognize Text - General Settings x
+
+Keywords: | .
+Document Language — English (US) v
+Leave As Is
+
+feltiattiag Editable Text and Images
+
+Downsample To | 600 dpi
+
+
+
+=== Page 14 ===
+Action Wizard, 3 of 5
+
+Step 7: Detect Form Fields. The Wizard will automatically detect form fields on the
+PDF. If the document has space boxes for form fields, select Yes, Detect Form
+
+Fields. If not, select No, Skip this Step.
+
+Is this document intended to be used as a fillable form? If so, choose yes to detect
+form fields.
+
+Yes, Detect Form Fields No, Skip this Step Cancel
+
+Step 9: The Action Wizard can be set up to always
+detect for any image present in the document.
+Select OK to scan the PDF for missing alternate
+texts.
+
+Step 8: Click the desired Reading
+Adobe Acrobat x Language and select OK.
+
+Set Reading Language x
+Language: (ayia v
+Adobe Acrobat x
+SM Acrobat will detect all figures in this document and display any figures with missing
+Ly alternate text.
+Do not show this message again
+
+
+
+=== Page 15 ===
+Action Wizard, 4 of 5
+
+Step 10: If alternative text is missing, a
+window will appear to set the
+alternative text for each image. Type
+the description of each image in the box
+and toggle between images using the
+right and left arrow buttons. Select Save
+& Close when all images have proper
+descriptions.
+
+Set Alternate Text x
+
+Image 1 of 2 >
+
+Alternate text: [_] Decorative figure
+
+Save & Close Cancel
+
+Step 11: Run Accessibility Full Check. The
+
+Accessibility Full Checker will run a full scan for
+accessibility. Select Start Checking to complete
+the scan. The results will display on the screen.
+
+Accessibility Checker Options x
+
+Report Options
+
+| Create accessibility report Folder: C:\Users\hbecs137\Document its Choose...
+
+Attach report to document
+
+Page Range
+@AIl pages in document O Pages from f to [1
+Checking Options (31 of 32 in all categories)
+
+Category: Document L
+
+Accessibility permission flag is set
+
+Document is not image-only PDF
+
+Document is tagged PDF
+
+Document structure provides a logical reading order
+
+Text language is specified
+
+Document title is showing in title bar
+
+GH AAA Aw AE
+
+Bookmarks are present in large documents
+
+Document has appropriate color contrast
+
+Select All Clear All
+
+[| Show this dialog when the Checker starts
+
+Help Start Checking Cancel
+
+
+
+=== Page 16 ===
+Action Wizard, 5 of 5
+
+Step 12: Accessibility Issues
+
+After running the final step in the Action
+Wizard with the Accessibility Checker,
+the results are prompted on screen for
+review. The Accessibility Checker will
+detect and prompt any remaining issues.
+These issues are identified using specific
+icons to represent each type of
+
+issue: Passed (green check mark), Needs
+Manual Check (question mark),
+
+and Failed (X).
+
+¢ Important: any issue with a Needs Manual
+Check or Failed will need to be fixed before the
+document can be considered accessible.
+
+* Select the X in the right-hand pane to close
+the Action Wizard.
+
+Accessibility Checker
+
+yOCCCOCSE 2
+
+Review and Correct Tags
+Make sure all items have
+appropriate tags
+Run Initial Accessibility Check
+* Regular Text: Text/Paragraph
+¢ Headers: Heading 1-6
+* Images: Figure
+¢ Links: Link + OBJR
+* Form Fields: Form
+
+* Decorative Content (e.g. Lines, text
+boxes, etc.): Background/Artifact
+
+Add Document Title and Language
+Verify Reading Order
+
+Verify Color Contrast
+
+Run Final Accessibility Check
+
+
+
+=== Page 17 ===
+Option 3: fener Ally Course Steps, 1 of 2
+
+Upload your image scanned
+document (without OCR) in Select three vertical dots icon menu
+
+Canvas Ally Course Files folder Select Alternative Formats
+
+Name « DateCreated DateModified ModifiedBy Size Accessibility
+Home l . .
+» Action Wizard Worksheet.pdf Monday Monday Van Nguyen 176 KB ao tv)
+People r
+UDC Documents.pdf Monday Monday Van Nguyen 41.4MB AY tv)
+Account Pages
+Files Download
+Dashboard =
+Alternative formats
+Syllabus _ ss
+Rename
+Modules
+Move
+Announcements &%
+Delete
+Calendar Quizzes Share to Commons
+
+
+
+=== Page 18 ===
+Canvas Ally Course Steps, 2 of 2
+
+Download alternative formats ~ x
+
+u agree with the Terms of Use
+
+Ally Attempts To
+
+¢ Improve the quality of the scan
+¢ OCRed PDF with Searchable Text
+° Tag it
+
+Review and Correct Tags
+
+Make sure all items have appropriate tags
+
+¢ Run Initial Accessibility Check
+
+Regular Text: Text/Paragraph
+Headers: Heading 1 —6
+Images: Figure
+
+Links: Link + OBJR
+
+Form Fields: Form
+
+Decorative Content (e.g. Lines, text
+boxes, etc.): Background/Artifact
+
+Add Document Title and Language
+
+Verify Reading Order
+
+Verify Color Contrast
+
+Run Final Accessibility Check
+
+
+
+=== Page 19 ===
+Canvas Ally Course - Scanned Comparison
+
+Original Quality — No tags available Ally Quality — Improved and tags
+
+Home Tools piaget1930v2 (origi... * Home Tools piaget1930v2 (Ally)... X
+WL. =
+4/2 75% + - m - Wl oo a,
+x & Q ®@ © rk 00 @ a PT ACAD vy 8ABQ ®@ + MOO «- FR PIALAD
+Q oe x
+THE LEVEL OF WATER 165 ‘THE LEVEL OF WATER 165
+Q of the displacement of the water-level. During a first Al =~ @ of the displacement of the water-level. During a first
+stage (under 7-8), the water is supposed to rise because stage (under 7-8), the water is supposed to rise because
+6 the pebble is heavy. From the point of view of prediton, > @ <Nonstruct “ the pele is heavy, From the point of ve of prediction
+the child is consistent: a large pebble will make the child is consistent : a large pebble will mak
+water rise less high than a collection of very heavy grains g >a water rise less high than a collection of very heavy grains
+CHAPTER VIL of lead, During a second stage (7 to 9 years), the pre- CHARTER VI of lead. During a second stage (7 to 9 years), the pre-
+B diction is correct: the child knows that the submerged B v @ <div> diction is comect : the child knows that the submerged
+THE LEVEL OF WATER bade wil ake the ite se fo proportion to thee qe THE LEVEL OF WATER posties ll ake te water wise in proportion "© ee
+‘ bulk. But in spite of this correct prediction the chil >a k But in spit is correct prediction the cl
+ae Noun is better suited to throw light on the dynamic continues, oblivious to the constant self-contradictions Nothing is better suited to throw light on the dynamic continues, oblivious to the constant self-contradictions
+significance attributed to weight by very young children, which he becomes involved in, to explain the pheno- z v @ ste significance attributed to weight by very young children, which he becomes involved in, to explain the pheno-
+and on the difficulty which they have in taking volume menon by weight and not by volune: the submerged out on the difficulty which they have Ya" talteg. volume nenon by weight and not by volume’: the submerged
+Ae | into account, than the immersion of a pebble in a glass body, he says, makes the water rise in proportion to v @ <Span> ito account, than the immersion of 2 pebble in 2 glass body, be says, makes the water rise in proportion to
+cree aaee rainy ag th ge om ® an a Pcie Faas Tee ae Sea
+he problem we are going to set the children is ex- onwards), the correct explanation is found The problem we are going to set the children is ex- enwards), the comect explanation is found.
+tremely simple, and that is its great advantage over the ° tremely’ simple. and that is its great advantage over the
+Fee aa et vatec tod reaues Wome Tele ic Saha celia cegrte itaaa > 4 problem of the floating boats. The child is shown a glass Si First stage ithe water rises because of the
+Hike arts lot aoe: tid patel Woe WEIGHT OF THE SUBMERGED RODY.—Let us start with an Oc three-quarters fill of water and a pebble We say: "T WEIGHT OF THE SUBMERGED BODY —_Let US Start with an
+‘ tum golng to pat this pebble into the wate, right in observation taken from ordinary life, A little gitl of 9, > hm going to put this pebble info the water, right in observation taken from ordinary life. A litle girl of 9.
+‘What will bippen ?| What will the water do? © If the in her own home, who has never been questioned. on’ the 5qe What wil tapren ? What wil the water do? "If the {i her own home, who has never been questioned on the
+child doesnt immediately way: The ued Mo ut present subject i om the point of puting a larg bunch docs noe fely say «The water will go up" present subject, is on the point of a large bunch
+wo ack ill the water stay at the same place or not of lowers into a vase fullof water. She is stopped : «Take ow . Tflawens pia'a ace fll cr nutes Soe wa Take
+ints s sacsperlicds ? <P> ‘we add : “ Will the water stay at the same place or not ? of topped
+ae Gee amar a ae eatin aeealtonibe care! It will ran over!" The child answers: No, > 4 Once the child has siven his answer. the experiment is care! It will mm over!” The child answers - “ No,
+done, the child is asked to note that the level of the because it isn't heavy.” Thus to her mind it is not the > G <Nonstuce "the child is acked to note that the level of the Because it isn't heavy.” Thus to her mind it is not the
+water has risen, and is asked to explain this phenomenon, volume of the body that matters but simply its weight water has risen, and is asked to explain this phenomenon. volume of the body that matters but simply its weight
+The younge oe tlvays answer thatthe water has the bunch of fowers, not being hea, ioe neater qe The youngest children always answer that the water has the bunch of flowers, not being heavy, can enter the water
+risen because the pebble is heavy and weighs on it. The without exercising pressure and consequently withow °
+child is then given a much bulkier, but lighter object, raising its level. > risen because the pebble is heavy and weighs on it. The without oe ising pressure and consequently without
+and is asked whether it, too, will make the water rise, : : on will be found >a child is then given a much bulkier, but fighter object, srising its level.
+and why, ‘The experiment can be varied with nails, with aot ith abe mee pecarelsovolts vb chara cterin and is asked whether it, too, will make the water rise, This little piece of everyday observation will be found
+Shot, with wood, ete a ' Gur Ast stage, Children of this atage think that sub- >a and why. The experiment can be varied with nails, with to tally with the more general results which characterise
+Tt goes without saying that this interrogatory must be merged bodies make the water rise in virtue of their ae shot, with wood, etc our first stage. Children of this stage think that sub-
+made before the children have been questioned on the weight : a small, heavy body will bring about a greater > It goes without saying that this interrogatory must be merged bodies make the water rise in virte of their
+subject of the boats, so as to avoid perseveration. The rise in the level than a large body of lesser weight <div> made before the children have been questioned on the Weight = a small, heavy body will bring about a greater
+children whose answers we are going to quote were ‘What is the meaning of this statement ? At first sight, v GOW subject of the boats, so as to avoid perseveration. The rise in the level than a large body of lesser weight.
+questioned first about the present subject and only after- it looks as though the child simply confused volume with qo children whose answers we are going to quote were ‘What is the meaning of this statement ? At first sight,
+wards about the boats. weight, and designated volume by the word “heavy ”. > questioned first about the present subject and only after it looks as though the child simply confused volume with
+‘Three stages may be distinguished in the explanations It might also appear as though, in the child’s eyes, heavy >qP wards about the boats. ; weight, and designated volume by the word " heavy
+ry Three stages may be distinguished in the explanations It might also appear as though, in the child’s eyes, heavy
+>a
+@ <NorStruct> iv
+
+niversal
+
+esign
+
+enter
+
+csun.edu/udc
+
+
+
+=== Page 20 ===
+Adobe Scan on Mobile App
+
+eFree on iOS or
+Android
+
+«Scans Documents into PDFs
+
+¢ Automatically Recognizes Text
+¢ See Adobe Scan Mobile App in action
+
+GET ITON 4 Download on the
+P> Google Play @ App Store
+
+©) —niversal Oesign enter csun.edu/ude
+
+
+
+=== Page 21 ===
+O) ej afe)a ey No Source Document? Try Export Options
+
+When no source document is available, ——
+recommend opening the PDF in Acrobat, and E> Oren. ctri+o lepdt x
+exporting to a Word or PowerPoint file. a 272) kh & O@ ae -
+Save As... Shift+Ctrl+S
+To convert a PDF to a Word document, select soos
+File > Export To> Microsoft Word > Word Masato
+Document. - Microsoft PowerPoint Presentation
+Close Ctrl+W ee
+Next step is applying Styles Formatting. See Properties. cusp J Pose
+the next slide “Direct vs Styles Formatting.” & print. ctateP —— — ;
+View All Recent Files... postscript
+Note: Need to verify format, alignment, “ COD rent Accessible
+unrecognized characters, punctuation, , Text (Plain
+spelling, etc. XML 10
+
+
+
+=== Page 22 ===
+Direct vs Styles Formatting
+
+Insert Design Layout References Review View Help Grammarly Acrobat Q Tell me what you want to do
+
+Calibri (Body) ~, ya Aa~ «
+re
+
+Direct Formatting
+
+i
+
+Paste
+
+T Normal | 1NoSpac... Heading! Heading2 Heading3 Heading 4 Title Subtitle  SubtleEm... Emphasis (>
+
+Format Painter
+Styles
+
+Styles Pane
+
+Paragraph
+
+Clipboard
+
+Direct Formatting Styles Pane Formatting
+Provide structure and make document accessible
+
+¢ Not accessible to any assistive
+technology such as screen readers * Easier to modify existing formatting
+
+* Can’t create a Table of Contents Create and update a Table of Contents
+
+* Can’t create a navigation to different * Quicker navigation to different sections in a document
+sections in a document
+
+Retain document structure when export to PDF
+* Huge barriers!
+
+Accessible to any assistive technology like screen
+readers
+
+¢ Save time and save lives!
+
+
+=== Page 23 ===
+Headings and
+Document Structure
+
+Example 1: Reading long, dense text
+documents can be a daunting task for
+learners
+
+Example 2: Well-structured documents help readers
+organize and process texts
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
+Need assistance or have a question not answered here? Please contact the Universal Design
+Center (UDC) at UDC@csun.edu or, during business hours (Monday through Friday, 8am to 5pm
+Pacific time), at (818) 677-5898.
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology.
+
+“Universal design” takes this concept one step further, to ensure that everyone can perceive,
+understand, engage, navigate and interact regardless of ability or preference.
+
+The UDC supports the campus community in their efforts to make it possible for individuals to
+learn, communicate, and share via information and communication technology. One way we do
+this is by assisting the campus community to ensure their information and communication
+technology is interoperable, usable and accessible, so that individual learning and processing
+styles and/or physical characteristics are not barriers to access.
+
+The role of the UDC is to help CSUN implement business practices which enable the campus to
+meet policy standards under the Accessible Technology Initiative Coded Memoranda.
+What does this mean to me?
+
+Everyone has a part in creating accessible and usable information. The responsibility of creating
+and maintaining accessible content falls to the entire campus community.
+
+Universal Design Center
+
+Heading 1
+
+Accessibility Statement
+
+As part of our commitment to excellen®a through diversity and inclusion, California State
+University, Northridge (CSUN) strives to en3uge that campus communication and information
+technology is accessible to everyone. The Cali ja State University system statement on
+accessibility is articulated in California State Unive - Executive Order 1111, in accordance
+with both federal and state laws including the America ith Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
+Need help? Heading
+
+Nee@ assistance or have a question not answered here? Please ci
+Design Center (UDC) at UDC@csun.edu or, during business hours (
+Friday, 8am to 5pm Pacific time), at (818) 677-5898,|
+
+Normal
+paragraph
+
+act the Universal
+
+hat is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access
+information and to technology. “Universal design” takes this concept one st
+ensure that everyone can perceive, understand, engage, navigate and int
+ability or preference.
+
+0 facilities, to
+further, to
+ct regardless of
+
+Universal Design Center Mission
+
+The UDC supports the campus community in their efforts to make it possible for individuals to
+learn cammunicate and chare via information and communication technolosy One wav we da.
+
+
+
+=== Page 24 ===
+Heading Styles
+
+¢ Heading Styles (Heading 1 through Heading 6) in a logical sequence. Do not
+skip heading levels i.e. Heading 2 to Heading 4, headings should be in order.)
+
+Heading 1: Document title or main content heading/title (just one)
+Heading 2: Major section heading
+Heading 3: Sub-section of the Heading 2
+
+Heading 4: Sub-section of the Heading 3, and so on, ending with
+Heading 6
+
+Normal: Text or paragraph
+
+Title in Word Style won't recognize when converting to a PDF. Start
+with Heading 1 for the document title.
+
+How to create an accessible document using Microsoft Word, visit Word
+Essentials page
+
+www.csun.edu/udc/word
+
+Hom: Insel esigi Layout —_ References Mailings Review View  Grammarly ACROBAT Q) Te
+
+Calib \} pean, © > 81 © papbced: aasbccof AABh AaBbC AaBbCcl aasbceo. Aa B|
+‘ aby | ” 1 Normal 1 No Spa leading 1 Hea j 2 Heading 3 Heading 4 Title
+‘ ‘sian AaBbCcD AaBbCcD: AaBbCcD: CcD, AaBbCcDi AaBbCcD: Aabb<
+Subtitl Subtle Err Emphasis | E Strong Quote nse Q
+
+AaBsCcDt AaBsCcD AaBbCcD AaBbCcDi
+
+Microsoft Word seta. eR Sok Te tit
+
+Headings are styles to
+give a document structure
+by category or topic.
+
+Without headings, a
+person using assistive
+technology like a screen
+reader cannot navigate by
+sections, subsections, or
+scan section titles to
+understand the document
+structure.
+
+AaBbCcDd AaBbCcdd AQBb AaBbCc
+1 Norma 1 No Spac Heading 1 Heading 2
+AaBbCc 408bCcDd Ag AaBbCcD
+AaBbCcDd AaBbCcDd AaBbCcDd AaBbCcDec
+
+Styles Pane
+
+
+
+=== Page 25 ===
+Option 2:[-T Original PDF Documents
+
+¢ Allows you to add and edit text and content within your PDF
+
+° Benefits
+o Saves Time
+o Helpful if you converted from inaccessible files
+¢ Drawback
+o If you have extensive edits, may need to retag your document.
+
+BR Edit PDF a Edit T Add Text [ag] Add Image P Link + (3. Crop Pages = Header & Footer + iB Watermark ~ [8=] More +
+
+niversal ~esign —enter
+
+csun.edu/udc
+
+
+
+=== Page 26 ===
+Review PDF Tools Training
+
+niversal ~esign —enter csun.edu/udc
+
+
+=== Page 27 ===
+TAGS are the HTML code
+accessibility markup all of
+the document text, images,
+etc. Tags are invisible
+identifiers that will tell
+screen readers and other
+assistive technology (AT)
+an element is...
+
+¢ header <H1-H6>
+* paragraph <P>
+
+* image <Figure>
+
+* list item <LI>
+¢ hyperlink <Link>
+
+table data cell <TD>
+
+What is a Tagged PDF? an
+
+<Figure>
+<Link>
+<Table>
+
+<Sect>
+<Artifact>
+
+iy
+
+-@
+
+Vv & kgs
+
+Vv
+
+ey Accessibility Statement
+
+v ge
+
+ay AS part of our commitment to exc
+
+___ Universal Design Center
+(=) <Sect>
+
+e ae
+v @ <H2>
+
+2lecessibility Statement
+
+P|s part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
++ |H3bed help?
+
+Vv @ <H3>
+
+. |P|eed assistance or have a question not answered here? Please contact the Universal
+| en Design Center (UDC) at UDC@csun.edu or, during business hours (Monday through
+Vv @ Friday, 8am to 5pm Pacific time), at (818) 677-5898.
+
+jay Need assistance or have a questio
+Vv @ <H2>
+
+jay What is Accessibility? What is Uniy
+> @<P>
+
+Vv ¢ <Figure>
+
+er
+
+[H2Vhat is Accessibility? What is Universal Design?
+
+Pn this context, “accessibility” means that people with disabilities have access — to facilities, to
+
+information and to technology. “Universal design” takes this concept one step further, to
+ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+ability or preference.
+
+| Image (76): w:315 h:315
+
+> @ <H2>
+@ <P>
+
+
+
+=== Page 28 ===
+Adding Tools to Navigation Pane
+
+These are the primary tools needed to create an accessible PDF:
+
+Option 1: View > Show/Hide >Navigation >
+
+Tags and Content Pane
+
+File Edit indow Classifications Help
+
+Home Rotate View
+
+Page Navigation
+
+y
+Page Display
+
+Zoom
+
+Tools
+
+Display Theme Y Tools Pane
+
+Toolbar Items
+
+Fal Read Mode Ctrl+H
+Page Controls
+Full Screen Mode Ctrl+L
+= v Menu Bar
+EP Tracker...
+
+Button Labels
+Read Out Loud Rulers & Grids
+
+Compare Files Cursor Coordinates
+
+>
+Show/Hide , Navigation Panes >
+
+Shift+F4
+
+F9
+
+| aU OmEC)
+
+Uy Articles
+G Attachments
+
+| Bookmarks
+
+©) Destinations
+
+g Layers
+
+fs)
+& Model Tree
+
+Z Order
+itt Page Thumbnails
+
+Zr Signatures
+
+Show Navigation Pane F4
+
+Reset Panes
+
+Option 2: On left pane, right-click to select
+
+Tags and Content Pane
+
+File Edit View Window Classifications Help
+
+Home Tools Doc1.pdf
+
+w Oe BQ
+
+o On left pane,
+
+right-click to select
+
+Content and Tags
+Panels
+
+UY Articles
+G Attachments
+[| Bookmarks
+
+©) Destinations
+g Layers
+
+Po
+
+$ Model Tree
+
+ZH Order
+
+iit Page Thumbnails
+Gy, Signatures
+
+Reset Panes
+
+Hide Navigation Pane Buttons
+
+x
+
+
+
+=== Page 29 ===
+<H1-H6>
+<P>
+
+<b>
+<Figure>
+<Link>
+<Table>
+<Sect>
+<Artifact>
+
+Tags Pane, 1 of 2
+
+Accessible PDF means every piece of content must be
+
+tagged with the correct tag.
+
+Tags are invisible identifiers that will tell screen readers and
+other assistive technology (AT) an object is...
+
+Paragraphs of body text: <P>
+
+Headings and subheads: <H1> - <H6>
+
+Lists: <L>, <LI>
+
+Tables: <Table>, <TR>, <TH>, <TD>
+
+Graphics have Alt-Text that describe the visual: <Figure>
+
+Hyperlinks: <Link>
+Captions, and other parts of a document: <Caption>
+
+Decorative images: <Artifact>
+
+Ensure the tags are in the correct logical reading order to match the
+document pane.
+
+4
+
+te)
+
+@Qeere
+
+Tags
+El- @
+Vv fF Tags
+
+v ei <Sect>
+
+> &<
+> @<
+|
+> #
+>» 4
+» 4
+> @
+>» 4
+> #<
+> &<
+
+H1>
+
+H2>
+
+<H3>
+
+<P>
+
+<P>
+
+<H2>
+
+<P>
+
+Figure>
+
+Caption>
+
+
+
+=== Page 30 ===
+Tags Pane, 2 of 2
+
+De Oe 2)
+
+3
+
+| As part of our commitment to
+
+Vv @ <H3>
+
+| Need help?
+
+> | <P>
+q <P>
+
+> @ <te>
+
+> q <P>
+
+> ¢ <Figure>
+
+v
+
+ersal Design Center
+
+Accessibility Statement
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
+Need help?
+
+Need assistance or have a question not answered here? Please contact the
+Universal Design Center (UDC) at UDC@csun.edu or, during business hours (Monday
+through Friday, 8am to Spm Pacific time), at (818) 677-5898.
+
+What is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+ability or preference.
+
+Figure 1: Accessibility logo
+
+Tags are shown as an
+expandable “tree”
+
+¢ Up and Down arrow keys to
+navigate tags tree.
+
+¢ Right and left arrow keys to
+expand and collapse the text.
+
+
+
+=== Page 31 ===
+Check Accessibility
+
+First run the Accessibility Full Check at the beginning and at the end.
+
+R Autotag Document
+
+Reading Options
+® Accessibility Report
+my Identify Form Fields
+Set Alternate Text
+*\ Setup Assistant
+
+Ly Reading Order
+
+Accessibility Checker Options
+
+Report Options
+
+[Attach report to document
+Page Range
+© All pages in document
+
+Pages from |2
+
+Checking Options (31 of 32 in all categories)
+
+to 2
+
+WZ] Create accessibility report Folder: C:\Users\sem72178\Documents
+
+is
+
+Category: [Document
+
+M) Accessibility permission flag is set
+
+¥] Document structure provides a logical reading order
+WZ) Text language is specified
+
+) Document title is showing in title bar
+
+1) Bookmarks are present in large documents:
+
+(| Document has appropriate color contrast
+
+[] Show this dialog when the Checker starts
+
+Start Checking
+
+Cancel
+
+$MOSOUS
+
+Accessibility Checker x
+
+w Document (4 issues)
+
+of Accessibility permission flag - Passed
+ Image-only PDF - Passed
+
+@ Tagged PDF - Failed
+
+@ logical Reading Order - Needs manua
+Primary language - Passed
+
+@ Title - Failed
+
+of Bookmarks - Passed
+
+@ Color contrast - Needs manual check
+
+> Page Content (2 issues)
+> Forms
+\ Alternate Text (5 issues)
+
+(x) Figures alternate text - Failed
+© Nested alternate text - Failed
+© Associated with content - Failed
+@ Hides annotation - Failed
+> @ Other elements alternate text - Failer
+> Tables (4 issues)
+
+> lists (2 issues)
+
+Vv Headings (1 issue)
+
+© Appropriate nesting - Failed
+
+>
+
+* Accessibility checkers
+results in bold text have
+one or more issues/failed
+that need to fix.
+
+° If you have a failure, you
+can right-click on any
+item in the report and
+select “Explain” that will
+link to Adobe webpage to
+explain the problem.
+
+¢ If the results not in bold
+text, that section has
+passed.
+
+
+=== Page 32 ===
+Common Issues — Title shown as a failure
+
+Acrobat did not recognize the Title from
+Word Document, simply right-click Title item
+and select “Fix”.
+
+The document description gives the
+document a proper title and language to be
+recognized by assistive technology.
+
+¢ Select File menu > Properties
+
+* Description tab, enter Title box is
+document title or main content
+heading/title (deselect Leave As Is, if
+necessary).
+
+¢ Application box showing the source
+document created from Word to PDF.
+
+oO
+W
+
+GNU SP)
+
+Accessibility Checker
+EE]
+Vv Document (3 issues)
+Accessibility permission flag - Passed
+Image-only PDF - Passed
+Tagged PDF - Passed
+7) Logical Reading Order - Needs manual check
+Primary language - Passed
+Bookmarks - Passed
+
+7) Color contrast - Needs manual check
+
+Bookmarks
+
+Skip Rule
+@ Color contr st
+
+Explain
+Page Content
+
+~ =
+Document Properties x]
+Description | Security| Fonts _[ Initial View | Custom | Advanceal|
+Description
+
+File: Creating Accessible Documents Hand Outpdf
+
+Title:
+
+Author. [Universal Design Center
+
+Subject
+
+Keywords:
+
+Created: 1/11/2019 11:47:41 AM
+
+Modified: 1/11/2019 11:47:43 AM
+
+Advanced
+PDF Producer: Adobe PDF Library 19.10.96
+PDF Version: 1.6 (Acrobat 7x)
+Location: C:\Users\hbecs137\Desktop\
+File Size: 213.54 KB (218,662 Bytes)
+Page Size: 8.50 11.00 in
+
+Tagged PDF: Yes
+
+Number of Pages: 5
+
+Fast Web View: Yes
+
+Additional Metadata...
+
+
+
+=== Page 33 ===
+What are PDF Title and Language?
+
+Title
+
+A PDF title is a more descriptive and
+meaningful version of the file name. PDF
+titles are often visible in the PDF window or
+tab. This visibility makes it easier to
+distinguish multiple PDFs before diving in.
+
+When multiple PDFs are open, well defined
+PDF titles allow for easier distinction
+between them. This distinction is particularly
+useful when relying on screen readers.
+
+Accessibility 101 Word Essentials
+
+Ally Demo Tools
+
+Language
+
+Screen readers can "speak" various
+languages—as long the content
+language is identified. If the screen
+reader does not support or cannot
+speak the defined language, the user
+might be informed of the content
+language, even if that content cannot
+be properly read.
+
+WebAIM: Document and Content Language
+
+TIpUBeT
+
+
+
+=== Page 34 ===
+Accessibility Checker — Manual evaluation
+
+The accessibility checker will always flag | aay Gre J
+two items that require manual evaluation: 7 &:
+
+* Logical Reading Order @° mee
+
+Accessibility permission flag - Passed
+
+¢ Color Contrast
+
+Image-only PDF - Passed
+Tagged PDF - Passed
+(_ Logical Reading Order - Needs manual check
+
+Primary language - Passed
+
+Two question marks @ will always stay in
+Document (2 issues) section even if you
+right-click and select Pass. It just there as a |
+reminder to conduct manual check. > Page Content
+
+niversal ~esign —enter
+
+3) Title - Failed
+
+Bookmarks - Passed
+
+csun.edu/udc
+
+
+
+=== Page 35 ===
+Verify Logical Reading Order
+
+Ensure the TAGS Tree are in the correct logical order to match the document pane. Manual rearrange tags as
+needed in the TAGS pane. After making these adjustments, start from the top of the tags tree and move
+through the tags pane sequentially using the down arrow key. A logical reading order start from left to right,
+top to bottom as illustrated. The Document Pane example is a two-columns layout hence the logical reading
+order starts with the first column then second column.
+
+2
+Fy Left: Incorrect
+4 reading order
+ul 1
+10 Bottom: Correct
+3 | 5 reading order
+6
+9
+
+W
+
+g
+
+rm
+
+om
+
+0) Tags Tree
+
+niversal Design Cente
+
+v ¢ <Document> a
+v ¢ ‘Art
+VG <Sect> This site is a project of the Accessible Technology
+-@ feat Initiative (ATT) of the California State University
+
+system. “It is the policy of the CSU to make
+Ss ees eel information technology resources and services
+accessible to all CSU students, faculty, staff and the
+
+v @<P>
+general public regardless of disability.”
+fy This site is a project of the Accessible Tec
+
+All CSU programs, services, and activities should be
+
+accessible to all students, staff, faculty, and the general
+4 public. This encompasses all technology products
+used to deliver academic programs and services,
+student services, information technology services, and
+auxiliary programs and services.
+
+i Initiative (ATI) of the California State Univ
+
+By system. “Itis the policy of the CSU to mak
+
+By information technology resources and set
+By accessible to all CSU students, f
+
+ey general public pegarlfess of disability.”
+
+> 4 <P>
+> @ <Figure> —_—— Universal
+— Center
+V @ <t2>
+| UDC Mission
+
+Accessibility Statement
+> @ <P>
+
+UDC Mission
+
+The UDC supports the campus community in
+
+their efforts to make it possible for individuals to
+learn, communicate, and share via information and
+communication technology. One way we do this is
+
+by assisting the campus community to ensure their
+information and communication technology is
+interoperable, usable and accessible, so that individual
+learning and processing styles and/or physical
+characteristics are not barriers to access.
+
+Campus Responsibility
+Everyone has a part in creating accessible and usable
+information. The responsibility of creating and
+
+maintaining accessible content falls to the entire
+campus community.
+
+Document
+Pane
+
+
+
+=== Page 36 ===
+v Sample preview
+
+WCAG 2.1 results Contrast ratio
+1.5:1
+
+Y 1.4.3 Contrast (Minimum) (AA)
+
+Text (including images of text) has a contrast
+ratio of at least 4.5:1 for "regular" sized text and at least
+3:1 for large scale text (at least |i8pt) /|24px|, or bold
+and at least |14pt|/{18.5px/), unless the text is purely
+decorative
+
+Fail (regular text) Fail (large text)
+
+Y 1.4.6 Contrast (Enhanced) (AAA)
+
+Paraphrased| Text (including images of text) has a contrast
+ratio of at least 7:1 for "regular" sized text and at least
+4.5:1 for large scale text (at least | 12pt |/{24px/|, or bold
+and at least|i4pt|/{18.5px/), unless the text is purely
+decorative
+
+Fail (regular text) Fail (large text)
+
+Y 1.4.11 Non-text Contrast (AA)
+
+The visual presentation of user interface
+components (their states — including focus indication —
+and boundaries) and graphical objects has a contrast
+ratio of at least 3:1 against adjacent color(s)
+
+Fail (UI components and graphical objects)
+
+Colour Contrast Analyser (CCA) Edit View
+
+Foreground colour (black)
+
+RGB +) rgb(0, 0, 0)
+
+Lt
+Background colour
+
+HEX + #E69500
+
+v Sample preview
+
+example text showing contrast i
+
+~*~
+
+WCAG 2.1 results Contrast ratio
+
+¥ 1.4.3 Contrast (Minimum) (AA)
+
+Text (including images of text) has a contrast
+
+ratio of at least 4.5:1 for "regular" sized text and at least
+3:1 for large scale text (at least /i2pt)/|24px/, or bold
+and at least /i4p+|/|12.5px)), unless the text is purely
+decorative
+© Pass (regular text) @ Pass (large text)
+
+> 1.4.6 Contrast (Enhanced) (AAA)
+© Pass (regular text) © Pass (large text)
+
+> 1.4.11 Non-text Contrast (AA)
+
+(2) Pass (UI components and graphical objects)
+
+Verify Color Contrast
+
+Bad Examples Good Examples
+
+Yellow on black is good
+
+Blue on orange is bad Black on orange is ok
+
+Racl on green is bad White on green is good
+
+* Download Colour Contrast Analyser onto
+your computer (PC/Mac) to ensure
+
+accessible contrast or use an online
+contrast checker from WebAIM.
+
+* WCAG Level AA requires a contrast ratio of
+
+People who have low vision or
+colorblind could encounter some
+difficulty distinguishing text color
+from a background color if the
+contrast is insufficient contrast ratio
+1.5:1.
+
+This example has a great color at least 4.5:1 for regular sized text (12 or
+contrast ratio of 8.7:1. The 14 pt. font) and 3:1 for large text (18 pt.
+contrast is sufficient for those font).
+
+who have color deficiencies * Coblis Color Blindness Simulator
+
+
+=== Page 37 ===
+Check Accessibility Again...
+
+* Go through each section that has one or more issues/failed to fix it until all sections passed.
+
+* Two question marks © will always stay in Document (2 issues) section even if you right-click and
+select Pass. It just there as a reminder to conduct manual check.
+
+Accessibility Checker x Accessibility Checker x
+Accessibility Checker Options =| Ma Decent d teaed \ Document (2 issues)
+Accessibility permission flag - Passed
+Report Options J Accessibility permission flag - Passed ¥ yp 9
+
+& Image-only PDF - Passed
+
+Create accessibility report Folder: C:\Users\sem72178\Documents
+
+[attach report to document
+
+@ Image-only PDF - Passed
+@ Tagged PDF - Passed
+@ Tagged PDF - Failed
+
+RB Autotag Document @ Logical Reading Order - Needs manual check
+
+SOS @u B68
+
+Page Range i i z
+age Rang @ Logical Reading Order - Needs manua reer eaisgee renee
+@ All pages in document Pages irom [2 10 [2 Primary language - Passed ¥ Title Passed
+
+Checking Options (31 of 32 in all categories) @ Title - Failed Le Wf Bookmarks - Passed
+
+Reading Options
+
+$¢H®§ OSH UD
+
+Category: [Document Bookmarks - Passed @ Color contrast - Needs manual check
+Color itrast - Need: ual check Page Content
+(2) Full Check ssiblity permission flag is set @ Color contra is manual chect v
+@ A ibility Re t [¥] Document is not image-only PDF > Page Content (2 issues) @ Tagged content - Passed
+ccessibility Repor epee
+(| Document is tagged PDF > Forms Tagged annotations - Passed
+- x Y| Document struct ides a logical reading ord of Tab order - Passed
+
+CX Identify Form Fields al sccrmer cisions ete oT v Alternate Text (5 issues)
+
+[Z) Text language is specified A Character encoding - Passed
+
+@ Fi Iternate text - Failed
+
+Set Alternate Text []Document tite is showing in ttle ber | @ Figures alternate = ov Teaged multimedia - Passed
+
+(| Bookmarks are present in large documents @ Nested alternate text - Failed J Screen flicker - Passed
+*\ Setup Assistant Document has appropriate color contrast @ Associated with content - Failed oo Scripts - Passed
+Q @ Hides annotation - Failed of Timed responses - Passed
+
+=¢ Reading Order
+Gy | Select All ] | Clear All > @ Other elements alternate text - Failes @ Navigation links - Passed
+(| Show this dialog when the Checker starts 5 Tables (4 issues) > Forms
+Help. Start Checking Cancel > Lists (2 issues) By ed
+Tables
+Headings (1 issue) u
+> Lists
+@ Appropriate nesting - Failed
+> Headings
+
+
+
+=== Page 38 ===
+No Tags Available
+
+(D Tags
+El @
+
+@™So en
+
+If you see “No tags available” in the Tags Pane, then the document is
+missing tagged structure. See the next slide “How to tag a document?”
+
+niversal ~esign —enter
+
+csun.edu/udc
+
+
+
+=== Page 39 ===
+How to Tag a Document?
+
+1. Open Accessibility, select Reading Order Tool
+
+2. Draw a rectangle around the content or double-click the content
+3. Select one of Reading Order buttons to tag it
+
+4. Proceed step #2 to tag the rest of the content
+
+R Autotag Document
+
+Step 1
+
+2) Accessibility Check
+® Accessibility Report
+ay Identify Form Fields
+FS Set Alternate Text
+\ Setup Assistant
+
+ad Reading Order
+
+UN
+
+Universal Design Center
+
+Step 2
+
+Accessibility Statement
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+
+technology is accessible to,
+accessibility is articulated i
+with both federal and stat¢
+Section 508 of the U.S. Rel}
+
+tan
+
+Step 3
+
+Accessibility Statement
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and informatior
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA)
+Section 508 of the U.S. Rehabilitation Act.
+
+Draw a rectangle around the content then click one of i
+
+the buttons below:
+Text/Paragraph
+Form Field
+
+Heading 1 Heading 4
+
+Heading 2 Heading 5
+
+Heading 3 Heading 6
+
+Reference (q) Note (z)
+
+Table Edito
+
+Figure
+Figure/Caption
+Table
+Cell
+Formula
+
+Background/Artifact
+
+
+
+=== Page 40 ===
+Heading Tags Sample
+
+Reading Order
+
+[33
+
+Draw a rectangle around the content then click one
+of the buttons below:
+F Text/Paragraph Figure
+' Form Field , Figure/Caption
+
+Heading 1 | | Heading 4 Table
+‘ Heading 2 | Heading 5 | Cell
+f Heading 3 | Heading 6 Formula
+
+Reference (q) | Note (z) Background/Artifact
+
+@®)
+
+niversal
+
+esign
+
+[J]® 2 eo&
+
+Tags x
+
+= ©
+
+es ____ Universal Design Center
+
+H1 ey eye :
+vom Accessibility Statement
+fag Universal Design Center A 7 . . . . .
+” As part of our commitment to excellence through diversity and inclusion, California State
+v @ ie
+
+University, Northridge (CSUN) strives to ensure that campus communication and information
+fay Accessibility Statement technology is accessible to everyone. The California State University system statement on
+> Eo accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+
+v @ PBS eS 508 of the U.S. Rehabilitation Act.
+fag Need help?
+eed help?
+
+<
+—_ Need assistance or have a question not answered here? Please contact the Universal
+
+v.@ ial Design Center (UDC) at UDC@csun.edu or, during business hours (Monday through
+fag What is Accessibility? What? Friday, 8am to 5pm Pacific time), at (818) 677-5898.
+> @<P>
+
+hat is Accessibility? What is Universal Design?
+
+> @ <Figure>
+> @ <H2>
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+
+Content highlighted from tags tree
+
+For multiple tags selection, CTRL + select tags (PC) or Command + select tags (Mac)
+
+enter csun.edu/udc
+
+
+
+=== Page 41 ===
+Paragraph Tags Sample
+
+Reading Order Eg ‘o Tags x
+Draw a rectangle around the content then click one “ v Rss . .
+of the buttons below: : g _— Universal Design Center
+rm
+Text/Paragraph | Figure Es > Gs Accessibility Statement
+é <H2>
+: e2 ~¢ _ As part of our commitment to excellence through diversity and inclusion, California State
+Form Field Figure/Caption v@ fa niversity, Northridge (CSUN) strives to ensure that campus communication and information
+jay AS part of our commitment to ex echnology is accessible to everyone. The California State University system statement on
+Heading 1 | Heading 4 Table > ge accessibility is articulated in California State University - Executive Order 1111, in accordance
+= ith both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Heading 2 | [ Heading 5 Cell > GP Section 508 of the U.S. Rehabilitation Act.
+; > @ <H2>
+Heading 3 | | Heading 6 Formula > @> ‘ Need help?
+Need assistance or have a question not answered here? Please contact the Universal
+5 > @ <Figure> Design Center (UDC) at UDC@csun.edu or, during business hours (Monday through
+Ref | | Not B ind/Artifact :
+efeience (a) ote, (2) ackocound/A ira > @ae Friday, 8am to Spm Pacific time), at (818) 677-5898.
+
+Content highlighted from tags tree
+
+niversal enter csun.edu/udc
+
+esign
+
+
+
+=== Page 42 ===
+List Tags Sample
+
+v ¢ <L> 4
+v @«l> .
+How to create an accessible PDF:
+Vv ¢ <LBody>
+1. Create an accessible Word document
+
+| 1. Create an accessible Word documé
+——— ied 2. Convert your Word document to PDF
+vo
+
+3. Validate PDF Tags and Reading Order
+Vv @ <LBody> 4. Use the accessibility checker to test your document
+
+| 2. Convert your Word document to P|
+
+Vv @ <i>
+> @ <LBody>
+v @<lp
+> @ <lBody>
+
+csun.edu/udc
+
+niversal ~esign —enter
+
+
+
+=== Page 43 ===
+Link Tags Sample
+
+<H3> . ;
+> University, Northridge (CSUN) strives to ensure that campus communication and information
+Vv § <P> technology is accessible to everyone. The California State University system statement on
+
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+
+| Need assistance or have a question not ans
+
+vg <P> Section 508 of the U.S. Rehabilitation Act.
+<Link>
+v Gsm Need help?
+fag Universal Design Center Need assistance or have a question not answered here? Please contact the
+
+i id Universal Design Center\(UDC) at UDC@csun.edu or, during business hours (Monday
+@ Link- OBR = pgs
+through Friday, 8am to 5pm Pacific time), at (818) 677-5898.
+| (UDG) at
+
+What is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+
+@ Link - OBR ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+ability or preference.
+
+Vv G@ <link 4
+
+| UDC@csun.edu
+
+S=a_or during business hours (Monday PathPat
+
+niversal ~esign —enter csun.edu/udc
+
+
+
+=== Page 44 ===
+Table Tags Sample
+
+v B <Table>
+vy Be <TR>
+> EB <TH>
+> 2s <TH>
+vy <TR>
+> BB <TD>
+> <TD>
+~v ee <TR>
+
+Vv & SID>
+
+v q <P>
+| Hearing
+> SB <TD>
+Vv <TR>
+> HB <TD>
+
+> &B <1D>
+
+> =e <TR>
+
+Disability People in U.S.
+
+Visual
+Cognitive Mental
+
+Ambulatory
+
+1.8 Million
+1.0 Million
+4.3 Million
+11.8 Million
+
+How to create an accessible PDF:
+
+1. Create an accessible Word document
+
+niversal ~ esign
+
+enter
+
+csun.edu/udc
+
+
+
+=== Page 45 ===
+¢ The purpose of Alt Text is to allow low vision or blind users who
+use text-to-speech assistive technologies (AT), such as screen
+
+Image Alte rm ative readers, to understand the purpose of graphic images. Sighted
+
+users usually don’t see alt text unless they use AT.
+
+or Alt Text ¢ Screen readers and other AT can’t convert images into texts. So,
+when writing alt text, consider the following for images:
+
+o What is its purpose?
+
+Accessibility ~_ ~ o Is the image important enough to be there?
+
+user-friendly document for NEN o If there is no description, what will the screen reader users
+CSUN student success _~
+
+miss?
+
+o Beconcise and eliminate unnecessary words.
+
+o When completing the alt text, use proper punctuation such as
+periods to indicate the end of the alt text. Without proper
+punctuation, some screen readers will run the alt text into the
+body text that follows and cause confusion to the user.
+
+° “Image of...”, “Photo of...” is not needed because screen readers
+
+Screen readers and other AT announce that it’s . . .
+and other AT announce that it’s an “image” or “graphic”.
+
+an “image” or “graphic”, then read the alt text:
+
+“Three plants going through transformation * There is no limit to the number of characters, but keep alt text
+with text quote Accessibility user-friendly . 4
+document for CSUN student success.” descriptions short around 200 characters or less.
+
+* Don’t use images of text for headings instead use live text (fully
+editable or selectable text).
+
+
+=== Page 46 ===
+How to Describe Images?
+
+ar) mien! ji
+
+Le att COED
+
+an
+
+ACCESS
+DENIED!
+
+A stair chase leading up to an entryway is
+painted yellow with bold black text that reads
+museums are now.
+
+A hand reaches out of a computer screen giving
+the hand gesture for stop. The screen reads
+‘access denied!’
+
+and together, as Matadors, we will move
+mountains.
+
+-
+
+Student holds a diploma hardcover up in the air
+during CSUN commencement. Caption text "and
+together, as Matadors, we will move mountains."
+
+Michelle Obama claps and Barack waves.
+
+On the left is the book cover for Haben The Deafblind
+Woman Who Conquered Harvard Law, and on the
+right is the quote: “In the Tigrinya language of Eritrea
+and Ethiopia, Haben means 'pride.’”
+
+More examples of How
+to Describe Images
+
+0 (Art, Chemistry,
+Diagrams, Flow Charts, Formatting & Layout,
+Graphs, Maps, Mathematics, Page Layout, Tables,
+Text-only images)
+
+
+
+=== Page 47 ===
+Figure and Caption Tags Sample
+
+Reading Order
+Draw a rectangle around the content then click one
+of the buttons below:
+Text/Paragraph Figure
+Form Field Figure/Caption
+Heading 1 | | Heading 4 Table
+Heading 2 | | Heading 5 Cell
+Heading 3 | | Heading 6 Formula
+Reference (q) | | Note (z) Background/Artifact
+
+> @ <H3> . sh sped * A a,
+4° What is Accessibility? What is Universal Design?
+> 4
+> qe In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+> @ <t2> ‘ ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+> 4 ability or preference.
+
+7
+
+Bay Image (136): w:315 h315
+-
+fa Figure 1: Accessibility logo
+
+> @<h2>
+> q <P> ‘igure 1: Accessibility logo|
+
+¢ Images are tagged as “Figure”
+
+* Or images with short text underneath as “Figure/Caption”.
+
+
+
+=== Page 48 ===
+Background/Artifact Tag for Decorative Images
+
+¢ Conveys no information; does not provide
+meaningful information.
+
+¢ Purely for visual effect.
+
+¢ The horizontal line that divided the two sections.
+
+e Line border image used as part of page design.
+
+¢ Decorative images do not require a text
+alternative.
+
+¢ Decorative images, lines, borders, or shapes
+ignore by assistive technologies, such as screen
+readers.
+
+niversal ~esign —enter
+
+Reading Order
+
+[£3
+
+Draw a rectangle around the content then click one
+
+of the buttons below: oq
+Text/Paragraph Figure
+Form Field Figure/Caption
+Heading 1 | Heading 4 Table
+Heading 2 | Heading 5 Cell
+Heading 3 | Heading 6 Formula
+Reference (q) | | Note (z)
+
+csun.edu/udc
+
+
+
+=== Page 49 ===
+About Reading Order Tool
+
+I : Show Page Content Groups
+
+oT * cme ag | ¢ Page content order: number
+A} = [Hi hiversal Design Center Jext/Paragraph Figure refe rs to the order of the
+
+~ feos “ —
+& ts H2|cessibility Statement Form Field Figure/Caption
+
+_—_|_ element in this content.
+
+&
+
+Ge > @sH>
+Heading 2 Heading 5 Cell
+> @<te
+B > qe Heading 3 Heading 6 Formula e St t t . h
+ee > @ <te> F have a question not answered here? Please contact the Reference (q) Note (2) Backaround/Artifact r u C u re y pe S e S OWS
+sq eosnel su mea isiness hours (Monday ,
+> ae ‘ tile document’s tag structure.
+> Ge 5 Show page content groups |
+
+sa a ee ESE <8 o-- Recommend to uncheck
+
+oe Boe "| “Display like elements in a
+_ — "| single block.” This will show
+sa oo ~ single tag rather than group
+
+elements.
+
+csun.edu/udc
+
+niversal ~esign —enter
+
+
+
+=== Page 50 ===
+Repair Tag Structure
+
+In case you found incorrect pre-assigned tag i.e.
+<P> for heading title when it should be tagging as
+<H1>. There are three different ways to correct
+the tag from <P> to <H1> in below examples.
+
+Option 1: Re-draw a rectangle around the Option 2: Double-click the tag i.e. <P>
+
+Tags x
+v £8 Tass S Pp H l H
+Universal Design Center
+vy [By <Sect>
+>4 .——_ Accessibility Statement
+> 4 <P> Pls part of our commitment to excellence through diversity and inclusion, California
+> qe University, Northridge (CSUN) strives to ensure that campus communication and ir
+technology is accessible to everyone. The California State University system state
+> Ge accessibility is articulated in California State University - Executive Order 1111, in
+> 4 <P> with both federal and state laws including the Americans with Disabilities Act of 1
+qe Section 508 of the U.S. Rehabilitation Act.
+
+Option 3: Select <P> tag, right-click to select
+
+content, select one of the Reading Order then re-type to <H1> Properties. Type box: select Heading Level 1
+Tool buttons to tag it.
+vB ta9s Copy Contents to Clipboard
+Edit Class Map...
+a [S| <Sect>
+Reading Order | a Edit Role Map... Ouject opens
+> 4 oa Tag Annotations
+Draw a rectangle around the content then click one of f= | Content Tag Color
+the buttons below: > q <P> v Document is Tagged PDF
+Type: |Paragraph v
+> qm Y Apply Role Mapping to Tags Form z
+Text/Paragraph Figure we & Tags Y Highlight Content Title: Formula
+<H3> 4 Actual Text:
+Form Field Figure/Caption ? ¢ “
+
+[| <Sect Heading Level 3
+
+Heading 1 Heading 4 Table Alternate Text: tea tous
+
+Heading Level 6
+Heading 2 Heading 5 Cell oe ~
+
+Heading 3 Heading 6 Formula Language: English US
+
+Reference (q) Note (z) Background/Artifact Eoit Tag. Edit Attribute Objects... Eqit Attribute Classes...
+Close:
+
+
+
+=== Page 51 ===
+What is the Content Pane?
+
+The Content Pane shows you the
+elements on a page and hold all the
+content within your PDF.
+
+You should be familiar with structural
+elements of PDF documents before
+editing them in the Content Pane.
+
+The Content Pane can be difficult to
+navigate because it is not properly
+organized.
+
+Editing your Content Pane is most
+helpful when you have PDFs with lots
+of graphics or overlapping information.
+If content is hidden in your PDF, you
+can go to the Content Pane to find it
+and reorganize to find the missing info.
+
+te)
+@
+g
+ze
+
+> ay Container <H3> Need help?
+
+v Paget
+
+> Annotations
+
+\ jay Container <Link> UDC@csun.edu
+
+> [By] Text: udc@csunedu
+
+> ay Container <Span> or, during business hours (Monc
+
+> [Ey Text: Universal Design Center
+
+> [Hy Text: Accessibility Statement
+
+> fay Container <P> As part of our commit
+
+cd
+
+\ fay Container <H1> Universal Design Center
+
+\ jay Container <H2> Accessibility Statement
+
+itmen
+
+t to excel
+
+Universal Design Center
+
+Accessibility Statement
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA) and
+Section 508 of the U.S. Rehabilitation Act.
+
+Need help?
+
+Need assistance or have a question not answered here? Please contact the
+Universal Design Center (UDC) at UDC@csun.edu or, during business hours (Monday
+through Friday, 8am to 5pm Pacific time), at (818) 677-5898.
+
+What is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+
+ability or preference.
+
+
+
+=== Page 52 ===
+Order Pane
+
+¢ DO NOT use Order Pane to
+Home Tools PDF Tools x
+rearrange logical reading order in + BBQ ®Osse KHOOm- BF BLL
+sequence. Screen readers like JAWS, J cesiiy coos
+
+. Order
+NVDA, VoiceOver don’t use Order a crete meen mctcnnt |
+
+A
+Pane to read the document instead gare Tearoion foe
+v a Form Field Figure/Caption
+they use TAGS to read the 8 _ a suena imam) (NE = |
+[2] Image Heading 2 Heading 5 Cell
+d ocume nt. 2 . 83] Image Heading 3 Heading 6 Formula
+ES S Jerosoft Windows Reference (q) Note (z) Background/Artifact |
+¢ In theory the Order Pane and Tags >
+fay [6] can free of charge by anyone. Table Editor
+Pane are supposed to match but a ‘
+, a! — Pr (V] Show page content groups [| 2
+often they don’t for more complex 9) ne ey oo a
+iS [10] Adds spoken, audible, and vibration feedbac blind and visually impaired Bere vous cells ind
+or untagged documents. wi a eels. | ae "hel
+ay [12] Screen magnifier for Microsoft Windows that beatelteshable Braille cisplay. r | Show tables and figures L}
+6 screen reader can be
+* If the reading order is incorrect > er coon re of care by cnwtsesmane || Qe
+
+v
+
+[5 Page 8 =
+
+Help Close
+[B Page 9
+
+v
+
+order, go to TAGS Pane to rearrange
+the correct order.
+
+
+
+=== Page 53 ===
+ae © Delete Empty Tags
+
+YG <Dociments Empty tags mean no text underneath the tags. Screen
+. —_ readers will say “Blank”. Recommend to delete any empty
+oe tags by selecting <P> or <H2>, right-click to select “Delete
+
+aiid Empty Tags”.
+
+| Universal Design Center
+
+Vv @ <P>
+
+Tags x
+
+=) 1) New Tag...
+
+| Initiative (ATI) of the California State Universit...
+
+Vv & Tags cut
+o>
+Vv @ <Document> Delete Tag
+> ¢ <Figure> VG <At> Delete Empty Tags
+
+v <Sect> A
+vy @ <P> ¢ Reading Order (x)
+v ¢ <H1}
+
+| All CSU programs, services, and activities should b... wy
+
+Find...
+
+Edit Class Map...
+
+v <P>
+¢ Edit Role Map...
+iw"
+
+Tag Annotations
+
+Vv @ <P> ae
+Y Document is Tagged PDF
+| As part of our commitment to excellence through > @ <Fiay
+vee Y Apply Role Mapping to Tags
+v ¢ <H2> Y Highlight Content
+Al
+
+a = Properties...
+jag: UDC Mission leno:
+oa
+jay As part of our commitment to excellence through
+
+> @ <t3> v @<te>
+Vv ¢ <P>
+
+
+
+=== Page 54 ===
+Launch the Tags Pane or the Content Pane
+
+¢ If you have errors in an Acrobat
+
+Accessibility Check, you should
+have the option to show the
+error in either the Content Pane
+or the Tags Pane or both.
+
+Accessibility
+
+Accessibility Checker x What is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+
+Document it (3 issues) ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+ability or preference.
+
+Page Content
+
+>
+>
+> Forms
+v Alternate Text (1 issue)
+v © Figures alternate text - Failed
+
+Figure 1
+
+¢ This lets you quickly see what
+the problem is.
+
+I
+7 Figure 1: Accessibility logo
+Nested al — Fix ° ve
+
+° | nm ost Ca ses, a ctivati n g/cl i C ki n g ww Associate Skip Rule Universal Design Center Mission
+
+Explain
+
+ES
+
+. @ Hides ani 4 The UDC supports the campus community processing styles and/or physical
+O n t h e e r ro r W | | | | et yo U S e e W h at in their efforts to make it possible for characteristics are not barriers to access.
+# Other ele individuals to learn, communicate, and
+1 1 1 1 Tables share via information and communication The role of the UDC is to help CSUN
+It | S | n t h e d O C u mM e n t, b ut b e | n g > technology. One way we do this is by implement business practices which enable
+e, . > ES assisting the campus community to ensure the campus to meet policy standards under
+a b | e to S e e | t | n e | t h e r O r b ot h > Headings their information and communication the Accessible Technology Initiative Coded
+Options technology is interoperable, usable and Memoranda.
+
+the Co nte nt and Ta gs Panes accessible, so that individual learning and
+takes you right to the problem.
+
+
+=== Page 55 ===
+Use screen reader to finalize
+your document accessibility features
+
+DO NOT use Adobe Acrobats built-in ‘Read Out Lout’ tool as a screen reader. This tool is
+NOT a screen reader and will not capture the same information as screen readers below.
+
+4)
+NV Access @
+
+Empowering lives through
+non-visual access to technology
+
+VoiceOver (Apple)
+
+Microsoft Windows NVDA screen reader that allows blind ¢ Apple VoiceOver built-in provides
+
+and visually impaired users to read the screen either with auditory descriptions of each onscreen
+a text-to-speech output or by a refreshable Braille display. element using gestures, a keyboard, ora
+NVDA can be downloaded free of charge by anyone. braille display.
+
+NVvaCcess.org
+
+
+=== Page 56 ===
+Accessibility Tips
+
+e Always save your PDF as you add TAGS
+accessibility markup
+
+¢ When modifying extensive content in reading
+order, drag content down not up
+
+¢ Delete empty tags
+
+Accessibility Tips
+
+Header, footer, and page numbers, decorative
+lines or shapes tag as “Background/artifact”
+
+niversal ~esign —enter csun.edu/udc
+
+
+=== Page 57 ===
+Always SAV E yo U r P D F a S yo U Adobe Acrobat DC has stopped working
+Hang on while Windows reports the problem to Microsoft...
+
+add TAGS accessibility markup
+
+Cancel
+
+Save it OFTEN to avoid
+Adobe unpredictable crashes!
+
+
+
+=== Page 58 ===
+PDF Accessibility Iterative Process
+
+1
+
+ee: 2 a
+Initial . 7
+— Fix common Review and
+ag rn issues/failed correct tags
+
+S Test screen Final a
+Congratulations! ea der Accessibility
+Check
+
+©) _niversal Uesign —enter csun.edu/ude
+
+
+
+=== Page 59 ===
+How can we help you make a difference?
+
+(=) Documents
+‘ Online & Self-Paced
+‘ \ Accessibility
+
+\ Modules
+| inCcCanvas
+
+Make one AV
+design that Z :
+| d — *
+c ‘ Q Universal Design Center Offers
+Media with ~~? Wabslte * Online, self-paced training
+captioning * In-person training each semester
+
+cnet * Consultations
+
+Universal Design means design for everyone * Tools and Services
+
+niversal ~esign —enter
+
+csun.edu/udc
+

@@ -1,0 +1,26 @@
+List Tags Sample
+
+v ¢ <L> 4
+v @«l> .
+How to create an accessible PDF:
+Vv ¢ <LBody>
+1. Create an accessible Word document
+
+| 1. Create an accessible Word documé
+——— ied 2. Convert your Word document to PDF
+vo
+
+3. Validate PDF Tags and Reading Order
+Vv @ <LBody> 4. Use the accessibility checker to test your document
+
+| 2. Convert your Word document to P|
+
+Vv @ <i>
+> @ <LBody>
+v @<lp
+> @ <lBody>
+
+csun.edu/udc
+
+niversal ~esign —enter
+

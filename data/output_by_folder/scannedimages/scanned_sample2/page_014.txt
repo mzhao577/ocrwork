@@ -1,0 +1,10 @@
+Action Wizard, 3 of 5
+Step 7: Detect Form Fields. The Wizard will automatically detect form fields on the 
+PDF. If the document has space boxes for form fields, select Yes, Detect Form 
+Fields . If not, select No, Skip this Step .
+Step 8: Click the desired Reading 
+Language and select OK.
+Step 9: The Action Wizard can be set up to always 
+detect for any image present in the document. 
+Select OKto scan the PDF for missing alternate 
+texts.

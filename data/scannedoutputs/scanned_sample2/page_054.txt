@@ -1,0 +1,53 @@
+Launch the Tags Pane or the Content Pane
+
+¢ If you have errors in an Acrobat
+
+Accessibility Check, you should
+have the option to show the
+error in either the Content Pane
+or the Tags Pane or both.
+
+Accessibility
+
+Accessibility Checker x What is Accessibility? What is Universal Design?
+
+In this context, “accessibility” means that people with disabilities have access — to facilities, to
+information and to technology. “Universal design” takes this concept one step further, to
+
+Document it (3 issues) ensure that everyone can perceive, understand, engage, navigate and interact regardless of
+ability or preference.
+
+Page Content
+
+>
+>
+> Forms
+v Alternate Text (1 issue)
+v © Figures alternate text - Failed
+
+Figure 1
+
+¢ This lets you quickly see what
+the problem is.
+
+I
+7 Figure 1: Accessibility logo
+Nested al — Fix ° ve
+
+° | nm ost Ca ses, a ctivati n g/cl i C ki n g ww Associate Skip Rule Universal Design Center Mission
+
+Explain
+
+ES
+
+. @ Hides ani 4 The UDC supports the campus community processing styles and/or physical
+O n t h e e r ro r W | | | | et yo U S e e W h at in their efforts to make it possible for characteristics are not barriers to access.
+# Other ele individuals to learn, communicate, and
+1 1 1 1 Tables share via information and communication The role of the UDC is to help CSUN
+It | S | n t h e d O C u mM e n t, b ut b e | n g > technology. One way we do this is by implement business practices which enable
+e, . > ES assisting the campus community to ensure the campus to meet policy standards under
+a b | e to S e e | t | n e | t h e r O r b ot h > Headings their information and communication the Accessible Technology Initiative Coded
+Options technology is interoperable, usable and Memoranda.
+
+the Co nte nt and Ta gs Panes accessible, so that individual learning and
+takes you right to the problem.

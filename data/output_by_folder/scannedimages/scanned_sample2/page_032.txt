@@ -1,0 +1,14 @@
+Common Issues –Title shown as a failure
+Acrobat did not recognize the Title from 
+Word Document, simply right -click Title item 
+and select “Fix”. 
+The document description gives the 
+document a proper title and language to be 
+recognized by assistive technology. 
+•Select File menu > Properties
+•Description tab, enter Title box is 
+document title or main content 
+heading/title (deselect Leave As Is , if 
+necessary).
+•Application box showing the source 
+document created from Word to PDF.

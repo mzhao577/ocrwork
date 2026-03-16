@@ -1,0 +1,63 @@
+Action Wizard, 4 of 5
+
+Step 10: If alternative text is missing, a
+window will appear to set the
+alternative text for each image. Type
+the description of each image in the box
+and toggle between images using the
+right and left arrow buttons. Select Save
+& Close when all images have proper
+descriptions.
+
+Set Alternate Text x
+
+Image 1 of 2 >
+
+Alternate text: [_] Decorative figure
+
+Save & Close Cancel
+
+Step 11: Run Accessibility Full Check. The
+
+Accessibility Full Checker will run a full scan for
+accessibility. Select Start Checking to complete
+the scan. The results will display on the screen.
+
+Accessibility Checker Options x
+
+Report Options
+
+| Create accessibility report Folder: C:\Users\hbecs137\Document its Choose...
+
+Attach report to document
+
+Page Range
+@AIl pages in document O Pages from f to [1
+Checking Options (31 of 32 in all categories)
+
+Category: Document L
+
+Accessibility permission flag is set
+
+Document is not image-only PDF
+
+Document is tagged PDF
+
+Document structure provides a logical reading order
+
+Text language is specified
+
+Document title is showing in title bar
+
+GH AAA Aw AE
+
+Bookmarks are present in large documents
+
+Document has appropriate color contrast
+
+Select All Clear All
+
+[| Show this dialog when the Checker starts
+
+Help Start Checking Cancel
+

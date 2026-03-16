@@ -1,0 +1,79 @@
+Common Issues — Title shown as a failure
+
+Acrobat did not recognize the Title from
+Word Document, simply right-click Title item
+and select “Fix”.
+
+The document description gives the
+document a proper title and language to be
+recognized by assistive technology.
+
+¢ Select File menu > Properties
+
+* Description tab, enter Title box is
+document title or main content
+heading/title (deselect Leave As Is, if
+necessary).
+
+¢ Application box showing the source
+document created from Word to PDF.
+
+oO
+W
+
+GNU SP)
+
+Accessibility Checker
+EE]
+Vv Document (3 issues)
+Accessibility permission flag - Passed
+Image-only PDF - Passed
+Tagged PDF - Passed
+7) Logical Reading Order - Needs manual check
+Primary language - Passed
+Bookmarks - Passed
+
+7) Color contrast - Needs manual check
+
+Bookmarks
+
+Skip Rule
+@ Color contr st
+
+Explain
+Page Content
+
+~ =
+Document Properties x]
+Description | Security| Fonts _[ Initial View | Custom | Advanceal|
+Description
+
+File: Creating Accessible Documents Hand Outpdf
+
+Title:
+
+Author. [Universal Design Center
+
+Subject
+
+Keywords:
+
+Created: 1/11/2019 11:47:41 AM
+
+Modified: 1/11/2019 11:47:43 AM
+
+Advanced
+PDF Producer: Adobe PDF Library 19.10.96
+PDF Version: 1.6 (Acrobat 7x)
+Location: C:\Users\hbecs137\Desktop\
+File Size: 213.54 KB (218,662 Bytes)
+Page Size: 8.50 11.00 in
+
+Tagged PDF: Yes
+
+Number of Pages: 5
+
+Fast Web View: Yes
+
+Additional Metadata...
+

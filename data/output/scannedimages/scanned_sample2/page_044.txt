@@ -1,0 +1,45 @@
+Table Tags Sample
+
+v B <Table>
+vy Be <TR>
+> EB <TH>
+> 2s <TH>
+vy <TR>
+> BB <TD>
+> <TD>
+~v ee <TR>
+
+Vv & SID>
+
+v q <P>
+| Hearing
+> SB <TD>
+Vv <TR>
+> HB <TD>
+
+> &B <1D>
+
+> =e <TR>
+
+Disability People in U.S.
+
+Visual
+Cognitive Mental
+
+Ambulatory
+
+1.8 Million
+1.0 Million
+4.3 Million
+11.8 Million
+
+How to create an accessible PDF:
+
+1. Create an accessible Word document
+
+niversal ~ esign
+
+enter
+
+csun.edu/udc
+

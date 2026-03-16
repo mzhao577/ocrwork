@@ -1,0 +1,7 @@
+Text Recognition
+•Need to conduct Optical Character 
+Recognition (OCR)
+•Text Recognition Types: 
+oSearchable Image
+oSearchable Image (exact)
+oEditable Text and Images 

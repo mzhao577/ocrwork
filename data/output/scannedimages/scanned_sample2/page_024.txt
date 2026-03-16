@@ -1,0 +1,53 @@
+Heading Styles
+
+¢ Heading Styles (Heading 1 through Heading 6) in a logical sequence. Do not
+skip heading levels i.e. Heading 2 to Heading 4, headings should be in order.)
+
+Heading 1: Document title or main content heading/title (just one)
+Heading 2: Major section heading
+Heading 3: Sub-section of the Heading 2
+
+Heading 4: Sub-section of the Heading 3, and so on, ending with
+Heading 6
+
+Normal: Text or paragraph
+
+Title in Word Style won't recognize when converting to a PDF. Start
+with Heading 1 for the document title.
+
+How to create an accessible document using Microsoft Word, visit Word
+Essentials page
+
+www.csun.edu/udc/word
+
+Hom: Insel esigi Layout —_ References Mailings Review View  Grammarly ACROBAT Q) Te
+
+Calib \} pean, © > 81 © papbced: aasbccof AABh AaBbC AaBbCcl aasbceo. Aa B|
+‘ aby | ” 1 Normal 1 No Spa leading 1 Hea j 2 Heading 3 Heading 4 Title
+‘ ‘sian AaBbCcD AaBbCcD: AaBbCcD: CcD, AaBbCcDi AaBbCcD: Aabb<
+Subtitl Subtle Err Emphasis | E Strong Quote nse Q
+
+AaBsCcDt AaBsCcD AaBbCcD AaBbCcDi
+
+Microsoft Word seta. eR Sok Te tit
+
+Headings are styles to
+give a document structure
+by category or topic.
+
+Without headings, a
+person using assistive
+technology like a screen
+reader cannot navigate by
+sections, subsections, or
+scan section titles to
+understand the document
+structure.
+
+AaBbCcDd AaBbCcdd AQBb AaBbCc
+1 Norma 1 No Spac Heading 1 Heading 2
+AaBbCc 408bCcDd Ag AaBbCcD
+AaBbCcDd AaBbCcDd AaBbCcDd AaBbCcDec
+
+Styles Pane
+

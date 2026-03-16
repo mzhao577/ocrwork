@@ -1,0 +1,28 @@
+Scan & OCR Steps, 2 of 2
+
+Enhance Scanned PDF
+
+All Pages 7 .
+oe On kGOOes- BP BLE
+FromPage [ft To fi [ Insert ~ Gi Enhance Aa Recognize Text» —_ [as] Bates Numbering + a nA
+oon
+
+Apply Adaptive Compression
+
+Pages CurrentPage
+
+Color/Grayscale: _JPEG2000
+
+Monochrome: —JBIG2 (Lossy)
+
+Now Live text should be
+searchable; this allows users to
+use search functions like CTRL + F
+to look for specific terms and find
+what they need quickly or to
+copy/paste text.
+
+English (US)
+
+Images)
+

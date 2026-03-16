@@ -1,0 +1,8 @@
+Background/Artifact Tag for Decorative Images
+•Conveys no information; does not provide 
+meaningful information.
+•Purely for visual effect.
+•The horizontal line that divided the two sections.
+•Line border image used as part of page design.
+•Decorative images do not require a text alternative.
+•Decorative images, lines, borders, or shapes ignore by assistive technologies, such as screen readers.

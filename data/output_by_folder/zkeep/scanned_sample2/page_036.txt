@@ -1,0 +1,15 @@
+Verify Color Contrast
+People who have low vision or 
+colorblind could encounter some difficulty distinguishing text color from a background color if the contrast is insufficient contrast ratio 
+1.5:1. 
+This example has a great color 
+contrast ratio of 8.7:1. The contrast is sufficient for those who have color deficiencies
+•Download Colour Contrast Analyser onto 
+your computer (PC/Mac) to ensure 
+accessible contrast or use an online 
+contrast checker from WebAIM .
+•WCAG Level AA requires a contrast ratio of 
+at least 4.5:1 for regular sized text (12 or 
+14 pt. font) and 3:1 for large text (18 pt. 
+font).
+•Coblis Color Blindness Simulator

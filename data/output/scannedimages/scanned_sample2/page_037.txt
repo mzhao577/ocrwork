@@ -1,0 +1,66 @@
+Check Accessibility Again...
+
+* Go through each section that has one or more issues/failed to fix it until all sections passed.
+
+* Two question marks © will always stay in Document (2 issues) section even if you right-click and
+select Pass. It just there as a reminder to conduct manual check.
+
+Accessibility Checker x Accessibility Checker x
+Accessibility Checker Options =| Ma Decent d teaed \ Document (2 issues)
+Accessibility permission flag - Passed
+Report Options J Accessibility permission flag - Passed ¥ yp 9
+
+& Image-only PDF - Passed
+
+Create accessibility report Folder: C:\Users\sem72178\Documents
+
+[attach report to document
+
+@ Image-only PDF - Passed
+@ Tagged PDF - Passed
+@ Tagged PDF - Failed
+
+RB Autotag Document @ Logical Reading Order - Needs manual check
+
+SOS @u B68
+
+Page Range i i z
+age Rang @ Logical Reading Order - Needs manua reer eaisgee renee
+@ All pages in document Pages irom [2 10 [2 Primary language - Passed ¥ Title Passed
+
+Checking Options (31 of 32 in all categories) @ Title - Failed Le Wf Bookmarks - Passed
+
+Reading Options
+
+$¢H®§ OSH UD
+
+Category: [Document Bookmarks - Passed @ Color contrast - Needs manual check
+Color itrast - Need: ual check Page Content
+(2) Full Check ssiblity permission flag is set @ Color contra is manual chect v
+@ A ibility Re t [¥] Document is not image-only PDF > Page Content (2 issues) @ Tagged content - Passed
+ccessibility Repor epee
+(| Document is tagged PDF > Forms Tagged annotations - Passed
+- x Y| Document struct ides a logical reading ord of Tab order - Passed
+
+CX Identify Form Fields al sccrmer cisions ete oT v Alternate Text (5 issues)
+
+[Z) Text language is specified A Character encoding - Passed
+
+@ Fi Iternate text - Failed
+
+Set Alternate Text []Document tite is showing in ttle ber | @ Figures alternate = ov Teaged multimedia - Passed
+
+(| Bookmarks are present in large documents @ Nested alternate text - Failed J Screen flicker - Passed
+*\ Setup Assistant Document has appropriate color contrast @ Associated with content - Failed oo Scripts - Passed
+Q @ Hides annotation - Failed of Timed responses - Passed
+
+=¢ Reading Order
+Gy | Select All ] | Clear All > @ Other elements alternate text - Failes @ Navigation links - Passed
+(| Show this dialog when the Checker starts 5 Tables (4 issues) > Forms
+Help. Start Checking Cancel > Lists (2 issues) By ed
+Tables
+Headings (1 issue) u
+> Lists
+@ Appropriate nesting - Failed
+> Headings
+

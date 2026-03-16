@@ -1,0 +1,74 @@
+How to Tag a Document?
+
+1. Open Accessibility, select Reading Order Tool
+
+2. Draw a rectangle around the content or double-click the content
+3. Select one of Reading Order buttons to tag it
+
+4. Proceed step #2 to tag the rest of the content
+
+R Autotag Document
+
+Step 1
+
+2) Accessibility Check
+® Accessibility Report
+ay Identify Form Fields
+FS Set Alternate Text
+\ Setup Assistant
+
+ad Reading Order
+
+UN
+
+Universal Design Center
+
+Step 2
+
+Accessibility Statement
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and information
+
+technology is accessible to,
+accessibility is articulated i
+with both federal and stat¢
+Section 508 of the U.S. Rel}
+
+tan
+
+Step 3
+
+Accessibility Statement
+
+As part of our commitment to excellence through diversity and inclusion, California State
+University, Northridge (CSUN) strives to ensure that campus communication and informatior
+technology is accessible to everyone. The California State University system statement on
+accessibility is articulated in California State University - Executive Order 1111, in accordance
+with both federal and state laws including the Americans with Disabilities Act of 1990 (ADA)
+Section 508 of the U.S. Rehabilitation Act.
+
+Draw a rectangle around the content then click one of i
+
+the buttons below:
+Text/Paragraph
+Form Field
+
+Heading 1 Heading 4
+
+Heading 2 Heading 5
+
+Heading 3 Heading 6
+
+Reference (q) Note (z)
+
+Table Edito
+
+Figure
+Figure/Caption
+Table
+Cell
+Formula
+
+Background/Artifact
+

@@ -1,0 +1,11 @@
+Option 1: No Source Document? Try Export Options
+When no source document is available, 
+recommend opening the PDF in Acrobat, and exporting to a Word or PowerPoint file. 
+To convert a PDF to a Word document, select 
+File > Export To> Microsoft Word > Word 
+Document .
+Next step is applying Styles Formatting . See 
+the next slide “Direct vs Styles Formatting.”
+Note: Need to verify format, alignment, 
+unrecognized characters, punctuation, 
+spelling, etc.

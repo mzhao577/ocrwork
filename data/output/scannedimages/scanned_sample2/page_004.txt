@@ -1,0 +1,32 @@
+Scanned Documents - OCR
+
+¢ Success is highly dependent upon:
+* The quality of the scan depends on the device
+¢ The quality of the OCR engine “Gg
+
+* Some Gotchas “2p -
+
+¢ Colored backgrounds
+¢ Handwritten text
+¢ Poor quality scan depends on the device
+
+e After improving the quality of the scan document,
+next step is tagging PDF accessibility markup.
+
+‘i
+
+@
+\
+
+‘y\ ‘
+
+<H1-H6>
+<P>
+
+<L>
+<Figure>
+<Link>
+<Table>
+<Sect>
+<Artifact>
+

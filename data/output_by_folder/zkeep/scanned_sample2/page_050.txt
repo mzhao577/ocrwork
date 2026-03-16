@@ -1,0 +1,11 @@
+Repair Tag Structure
+In case you found incorrect pre-assigned tag i.e. 
+<P> for heading title when it should be tagging as <H1>. There are three different ways to correct 
+the tag from <P> to <H1> in below examples.
+Option 1: Re-draw a rectangle around the 
+content, select one of the Reading Order 
+Tool buttons to tag it.
+Option 2: Double -click the tag i.e. <P> 
+then re -type to <H1>
+Option 3: Select <P> tag, right -click to select 
+Properties . Type box: select Heading Level 1

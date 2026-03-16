@@ -1,0 +1,78 @@
+<H1-H6>
+<P>
+
+<b>
+<Figure>
+<Link>
+<Table>
+<Sect>
+<Artifact>
+
+Tags Pane, 1 of 2
+
+Accessible PDF means every piece of content must be
+
+tagged with the correct tag.
+
+Tags are invisible identifiers that will tell screen readers and
+other assistive technology (AT) an object is...
+
+Paragraphs of body text: <P>
+
+Headings and subheads: <H1> - <H6>
+
+Lists: <L>, <LI>
+
+Tables: <Table>, <TR>, <TH>, <TD>
+
+Graphics have Alt-Text that describe the visual: <Figure>
+
+Hyperlinks: <Link>
+Captions, and other parts of a document: <Caption>
+
+Decorative images: <Artifact>
+
+Ensure the tags are in the correct logical reading order to match the
+document pane.
+
+4
+
+te)
+
+@Qeere
+
+Tags
+El- @
+Vv fF Tags
+
+v ei <Sect>
+
+> &<
+> @<
+|
+> #
+>» 4
+» 4
+> @
+>» 4
+> #<
+> &<
+
+H1>
+
+H2>
+
+<H3>
+
+<P>
+
+<P>
+
+<H2>
+
+<P>
+
+Figure>
+
+Caption>
+
