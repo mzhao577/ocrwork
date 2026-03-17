@@ -1,0 +1,11 @@
+HOSPITAL COURSE:
+Patient was admitted for evaluation and management of the above condition.
+Hospital course was complicated by multiple comorbidities.
+Patient received appropriate medical management and showed clinical improvement.
+
+DISCHARGE DIAGNOSES:
+  - Obstructive chronic bronchitis with acute exacerbation (ICD-9: 49121)
+  - Diabetes mellitus type II, uncontrolled (ICD-9: 25002)
+  - Diagnosis code 2662 (ICD-9: 2662)
+  - Diagnosis code 04111 (ICD-9: 04111)
+  - Congestive heart failure, unspecified (ICD-9: 4280)

@@ -1,0 +1,11 @@
+HOSPITAL COURSE:
+Patient was admitted for evaluation and management of the above condition.
+Hospital course was complicated by multiple comorbidities.
+Patient received appropriate medical management and showed clinical improvement.
+
+DISCHARGE DIAGNOSES:
+  - Diagnosis code 42789 (ICD-9: 42789)
+  - Diagnosis code 2948 (ICD-9: 2948)
+  - Atrial fibrillation (ICD-9: 42731)
+  - Diagnosis code 71590 (ICD-9: 71590)
+  - Diabetes mellitus type II without complication (ICD-9: 25000)
